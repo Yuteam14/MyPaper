@@ -1,7 +1,7 @@
 # Research Papers
 
 ## Content
-- [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
+-1. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
 
 ---
 
