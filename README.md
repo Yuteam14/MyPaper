@@ -2,7 +2,6 @@
 
 ## Content
 -1. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
-
 -3. [CLIP](#clip)
 
 ---
