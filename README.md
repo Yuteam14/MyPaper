@@ -10,7 +10,7 @@
 <a id="medical-image-semantic-segmentation"></a>
 ## Medical Image Semantic Segmentation
 
-1. [2025 MICCAI] Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models [[paper]](待补充) [[code]](待补充)  
+1. [2025 MICCAI] Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models [[paper]](https://arxiv.org/pdf/2407.13768)
    提出保守-激进互补学习策略，解决医学图像中的类别增量学习问题。
 
 2. [2025 MICCAI] D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM [[paper]](待补充) [[code]](待补充)  
