@@ -11,21 +11,18 @@
 ## Medical Image Semantic Segmentation
 
 1. [2025 MICCAI] Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models [[paper]](https://arxiv.org/pdf/2407.13768)  
-   提出保守-激进互补学习策略，解决医学图像中的类别增量学习问题。
-
-2. [2025 MICCAI] D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM [[paper]](待补充) [[code]](待补充)  
-
-3. [2025 MICCAI] Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations [[paper]](待补充) [[code]](待补充)  
-   半监督医学图像分割的关键在于伪标注的生成，我们可以采用transCLIP的方法对伪标签进行矫正。
+   提出保守-激进互补学习策略，解决医学图像中的类别增量学习问题
+2. [2025 MICCAI] D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM [[paper]](待补充) [[code](https://github.com/JingjunYi/D-CAM)  
+3. [2025 MICCAI] Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations [[paper]](https://arxiv.org/pdf/2506.17136)  
+   半监督医学图像分割的关键在于伪标注的生成，采用transCLIP的方法对伪标签进行矫正
 
 ---
 
 <a id="clip"></a>
 ## CLIP
 
-1. [2025 CVPR] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation [[paper]](待补充) [[code]](待补充)  
-
-2. [2025-ICLR] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation [[paper]](待补充) [[code]](待补充)  
+1. [2025 CVPR] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](待补充)  
+2. [2025-ICLR] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP)  
 
 ---
 
