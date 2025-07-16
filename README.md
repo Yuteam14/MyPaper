@@ -13,14 +13,15 @@
 1. [2025 MICCAI] Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models [[paper]](https://arxiv.org/pdf/2407.13768)  
    提出保守-激进互补学习策略，解决医学图像中的类别增量学习问题
 2. [2025 MICCAI] D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM [[paper]](待补充) [[code]](https://github.com/JingjunYi/D-CAM)  
+   D-CAM：基于领域不变类激活图的泛化性弱监督医学图像分割方法  
 3. [2025 MICCAI] Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations [[paper]](https://arxiv.org/pdf/2506.17136)  
    半监督医学图像分割的关键在于伪标注的生成，采用transCLIP的方法对伪标签进行矫正  
 4. [2025 CVPR] Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation [[paper]](https://arxiv.org/pdf/2503.12068)[[code]](https://github.com/QingchenTang/PBIP?tab=readme-ov-file)  
    基于原型图像提示的弱监督病理图像分割  
 5. [2025 CVPR] Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Multi-modal_Topology-embedded_Graph_Learning_for_Spatially_Resolved_Genes_Prediction_from_CVPR_2025_paper.pdf)[[code]](https://github.com/MedAIerHHL/CVPR-MIA)  
    基于多模态拓扑嵌入图学习的病理图像空间解析基因预测——融合先验基因相似性信息  
-6. [2025 CVPR] PBIP: Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation [[paper]](https://openreview.net/pdf?id=trj2Jq8riA)[[code]](https://github.com/QingchenTang/PBIP?tab=readme-ov-file)  
-   PBIP：基于原型弱监督提示学习的病理图像分割方法  
+6. [2025 CVPR] VLSA: Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology [[paper]](https://openreview.net/pdf?id=trj2Jq8riA)[[code]](https://github.com/liupei101/VLSA?tab=readme-ov-file#-awesome-papers-of-pathology-vlms)  
+   VLSA：面向计算病理学的可解释视觉-语言序贯生存分析框架（基于序数归纳偏置）    
 ---
 
 <a id="clip"></a>
