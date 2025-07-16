@@ -22,11 +22,11 @@
    基于多模态拓扑嵌入图学习的病理图像空间解析基因预测——融合先验基因相似性信息  
 6. [2025 CVPR] VLSA: Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology [[paper]](https://openreview.net/pdf?id=trj2Jq8riA)[[code]](https://github.com/liupei101/VLSA?tab=readme-ov-file#-awesome-papers-of-pathology-vlms)  
    VLSA：面向计算病理学的可解释视觉-语言序贯生存分析框架（基于序数归纳偏置）  
-7. [2025 CV] Tile-level Histopathology image Understanding benchmark [[paper]](https://arxiv.org/pdf/2507.07860)[[code]](https://github.com/MICS-Lab/thunder)  
+7. [2025 CV] Tile-level Histopathology image Understanding benchmark [[paper]](https://arxiv.org/pdf/2507.07860)[[code]](https://github.com/MICS-Lab/thunder)    
    基于图像块的病理切片理解基准测试   
-8. [2025 arXiv] Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates [[paper]](https://arxiv.org/pdf/2504.02008)
+8. [2025 arXiv] Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates [[paper]](https://arxiv.org/pdf/2504.02008)  
    无需参数更新的基础医学分割模型测试时自适应方法  
-9. [2025 arXiv] Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates [[paper]](https://arxiv.org/pdf/2504.02008)[[code]](https://github.com/ecoxial2007/Expert-CFG) 
+9. [2025 arXiv] Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates [[paper]](https://arxiv.org/pdf/2504.02008)[[code]](https://github.com/ecoxial2007/Expert-CFG)  
    不确定性驱动的专家调控：增强医学视觉-语言模型的可靠性  
 ---
 
@@ -38,7 +38,7 @@
 2. [2025-ICLR] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP)  
 3. [2024-arXiv] Boosting Vision-Language Models with Transduction [[paper]](https://arxiv.org/pdf/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)  
    提出基于统计适应的转导推理方法，在11个跨模态基准测试中平均提升8.7%准确率  
-4. [2025 arXiv] ViLU: Learning Vision-Language Uncertainties for Failure Prediction [[paper]](https://arxiv.org/pdf/2507.07620)[[code]](https://github.com/ykrmm/ViLU) 
+4. [2025 arXiv] ViLU: Learning Vision-Language Uncertainties for Failure Prediction [[paper]](https://arxiv.org/pdf/2507.07620)[[code]](https://github.com/ykrmm/ViLU)  
    ViLU：基于视觉-语言不确定性学习的故障预测方法  
 ---
 
