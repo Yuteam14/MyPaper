@@ -2,7 +2,7 @@
 
 ## Content
 1. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
-2. [CLIP](#clip)
+2. [CLIP&&Classic Model](#clip&&Class_Model)
 3. [Dataset Resources](#dataset-resources)
 
 ---
@@ -27,11 +27,13 @@
 8. [2025 arXiv] Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates [[paper]](https://arxiv.org/pdf/2504.02008)  
    无需参数更新的基础医学分割模型测试时自适应方法  
 9. [2025 arXiv] Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates [[paper]](https://arxiv.org/pdf/2504.02008)[[code]](https://github.com/ecoxial2007/Expert-CFG)  
-   不确定性驱动的专家调控：增强医学视觉-语言模型的可靠性  
+   不确定性驱动的专家调控：增强医学视觉-语言模型的可靠性
+10. [2025 arXiv] ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology [[paper]](https://arxiv.org/pdf/2503.17564)[[code]](https://github.com/ecoxial2007/Expert-CFG)   
+   利用多模态信息微调玻片级基础模型实现数字病理中的多任务学习  
 ---
 
 <a id="clip"></a>
-## CLIP
+## CLIP&&Classic Model
 
 1. [2025 CVPR] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](待补充)  
    这篇论文提出了一种名为COSMIC（Clique-Oriented Semantic Multi-space Integration for CLIP）的新型测试时自适应（TTA）框架，旨在提升CLIP模型在新领域中的适应能力  
