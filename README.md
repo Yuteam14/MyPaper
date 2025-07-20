@@ -2,7 +2,7 @@
 
 ## Content
 1. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
-2. [CLIP&&Classic Model](#clip&&Class_Model)
+2. [CLIP&&Classic Model](#clip&&Classic_Model)
 3. [Dataset Resources](#dataset-resources)
 
 ---
