@@ -2,7 +2,7 @@
 
 ## Content
 1. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
-2. [CLIP&&Classic Model](#clip&&Classic_Model)
+2. [Classic Model](#classic_model)
 3. [Dataset Resources](#dataset-resources)
 
 ---
@@ -33,7 +33,7 @@
 ---
 
 <a id="clip"></a>
-## CLIP&&Classic Model
+## classic model
 
 1. [2025 CVPR] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](待补充)  
    这篇论文提出了一种名为COSMIC（Clique-Oriented Semantic Multi-space Integration for CLIP）的新型测试时自适应（TTA）框架，旨在提升CLIP模型在新领域中的适应能力  
