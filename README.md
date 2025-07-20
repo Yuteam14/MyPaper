@@ -27,8 +27,8 @@
 8. [2025 arXiv] Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates [[paper]](https://arxiv.org/pdf/2504.02008)  
    无需参数更新的基础医学分割模型测试时自适应方法  
 9. [2025 arXiv] Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates [[paper]](https://arxiv.org/pdf/2504.02008)[[code]](https://github.com/ecoxial2007/Expert-CFG)  
-   不确定性驱动的专家调控：增强医学视觉-语言模型的可靠性
-10. [2025 arXiv] ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology [[paper]](https://arxiv.org/pdf/2503.17564)[[code]](https://github.com/ecoxial2007/Expert-CFG)   
+   不确定性驱动的专家调控：增强医学视觉-语言模型的可靠性  
+10. [2025 arXiv] ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology [[paper]](https://arxiv.org/pdf/2503.17564)  
    利用多模态信息微调玻片级基础模型实现数字病理中的多任务学习  
 ---
 
@@ -42,6 +42,8 @@
    提出基于统计适应的转导推理方法，在11个跨模态基准测试中平均提升8.7%准确率  
 4. [2025 arXiv] ViLU: Learning Vision-Language Uncertainties for Failure Prediction [[paper]](https://arxiv.org/pdf/2507.07620)[[code]](https://github.com/ykrmm/ViLU)  
    ViLU：基于视觉-语言不确定性学习的故障预测方法  
+5. [2025 arXiv] SGPMIL: Sparse Gaussian Process Multiple Instance Learning [[paper]](https://arxiv.org/pdf/2507.08711)  
+   SGPMIL：稀疏高斯过程多示例学习  
 ---
 
 <a id="dataset-resources"></a>
