@@ -38,7 +38,7 @@
 1. [2025 CVPR] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](待补充)  
    这篇论文提出了一种名为COSMIC（Clique-Oriented Semantic Multi-space Integration for CLIP）的新型测试时自适应（TTA）框架，旨在提升CLIP模型在新领域中的适应能力  
 2. [2025-ICLR] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP)  
-3. [2024-arXiv] Boosting Vision-Language Models with Transduction [[paper]](https://arxiv.org/pdf/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)  
+3. [2024-arXiv] Boosting Vision-Language Models with Transduction [[paper]](https://arxiv.org/pdf/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)[[note]](https://yuteam14.github.io/MyPaper/Note/%E6%96%87%E7%8C%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-3.pdf)    
    提出基于统计适应的转导推理方法，在11个跨模态基准测试中平均提升8.7%准确率  
 4. [2025 arXiv] ViLU: Learning Vision-Language Uncertainties for Failure Prediction [[paper]](https://arxiv.org/pdf/2507.07620)[[code]](https://github.com/ykrmm/ViLU)  
    ViLU：基于视觉-语言不确定性学习的故障预测方法  
