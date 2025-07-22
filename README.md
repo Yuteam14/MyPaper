@@ -31,7 +31,7 @@
 10. [2025 arXiv] ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology [[paper]](https://arxiv.org/pdf/2503.17564)  
    利用多模态信息微调玻片级基础模型实现数字病理中的多任务学习  
 11. [2025 arXiv] Segment Anything in Pathology Images with Natural Language [[paper]](https://arxiv.org/pdf/2506.20988)  
-   利用多模态信息微调玻片级基础模型实现数字病理中的多任务学习  
+   病理图像的自然语言语义分割  
 ---
 
 <a id="clip"></a>
