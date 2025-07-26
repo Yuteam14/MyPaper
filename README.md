@@ -21,6 +21,7 @@
 9. [2025 arXiv] Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates [[paper]](https://arxiv.org/pdf/2504.02008)[[code]](https://github.com/ecoxial2007/Expert-CFG)   
 10. [2025 arXiv] ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology [[paper]](https://arxiv.org/pdf/2503.17564)  
 11. [2025 arXiv] Segment Anything in Pathology Images with Natural Language [[paper]](https://arxiv.org/pdf/2506.20988)  
+12. [2025 arXiv] Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation [[paper]](https://arxiv.org/pdf/2507.11055)   
 ---
 
 <a id="clip"></a>
