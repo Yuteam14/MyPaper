@@ -22,7 +22,7 @@
 10. [2025 arXiv] ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology [[paper]](https://arxiv.org/pdf/2503.17564)  
 11. [2025 arXiv] Segment Anything in Pathology Images with Natural Language [[paper]](https://arxiv.org/pdf/2506.20988)  
 12. [2025 arXiv] Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation [[paper]](https://arxiv.org/pdf/2507.11055)
-13. [2024 arXiv] FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/bdcdf38389d7fcefc73c4c3720217155-Paper-Conference.pdf)   
+13. [2024 NeurIPS] FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/bdcdf38389d7fcefc73c4c3720217155-Paper-Conference.pdf)[[code]](https://github.com/fukexue/FAST)   
 ---
 
 <a id="clip"></a>
