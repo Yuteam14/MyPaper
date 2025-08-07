@@ -34,7 +34,8 @@
 4. [2025 arXiv] ViLU: Learning Vision-Language Uncertainties for Failure Prediction [[paper]](https://arxiv.org/pdf/2507.07620)[[code]](https://github.com/ykrmm/ViLU)  
 5. [2025 arXiv] SGPMIL: Sparse Gaussian Process Multiple Instance Learning [[paper]](https://arxiv.org/pdf/2507.08711)  
 6. [2025 arXiv] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model [[paper]](https://arxiv.org/pdf/2506.23822)  
-7. [2025 CVF] Black Box Few-Shot Adaptation for Vision-Language models [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf#page=4.97)[[code]](https://github.com/saic-fi/LFA)  
+7. [2025 CVF] Black Box Few-Shot Adaptation for Vision-Language models [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf#page=4.97)[[code]](https://github.com/saic-fi/LFA)
+8. [2025 CVPR] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models [[paper]](https://arxiv.org/pdf/2501.11175)[[code]](https://github.com/ybendou/ProKeR)  
 
 <a id="dataset-resources"></a>
 ## Dataset Resources
