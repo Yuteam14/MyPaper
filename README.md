@@ -17,7 +17,7 @@
 5. [2025 CVPR] Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Multi-modal_Topology-embedded_Graph_Learning_for_Spatially_Resolved_Genes_Prediction_from_CVPR_2025_paper.pdf)[[code]](https://github.com/MedAIerHHL/CVPR-MIA)  
 6. [2025 ICLR] VLSA: Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology [[paper]](https://openreview.net/pdf?id=trj2Jq8riA)[[code]](https://github.com/liupei101/VLSA?tab=readme-ov-file#-awesome-papers-of-pathology-vlms) [[note]](https://yuteam14.github.io/MyPaper/Note/%E7%97%85%E7%90%86%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB.pdf)  
 7. [2025 CV] Tile-level Histopathology image Understanding benchmark [[paper]](https://arxiv.org/pdf/2507.07860)[[code]](https://github.com/MICS-Lab/thunder)    
-8. [2025 arXiv] Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates [[paper]](https://arxiv.org/pdf/2504.02008)   
+8. [2025 Nature] A vision–language foundation model for precision oncology [[code]](https://github.com/lilab-stanford/MUSK)   
 9. [2025 arXiv] Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates [[paper]](https://arxiv.org/pdf/2504.02008)[[code]](https://github.com/ecoxial2007/Expert-CFG)   
 10. [2025 arXiv] ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology [[paper]](https://arxiv.org/pdf/2503.17564)  
 11. [2025 arXiv] Segment Anything in Pathology Images with Natural Language [[paper]](https://arxiv.org/pdf/2506.20988)  
