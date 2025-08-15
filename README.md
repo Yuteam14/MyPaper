@@ -24,7 +24,11 @@
 12. [2025 arXiv] Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation [[paper]](https://arxiv.org/pdf/2507.11055)
 13. [2024 NeurIPS] FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/bdcdf38389d7fcefc73c4c3720217155-Paper-Conference.pdf)[[code]](https://github.com/fukexue/FAST)  
 14. [2025 MICCAI] Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction [[paper]](https://arxiv.org/pdf/2506.17503)[[code]](https://github.com/jusiro/SCA-T)  
-15. [2025 MICCAI] Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning [[paper]](https://arxiv.org/pdf/2506.23827)[[code]](https://github.com/jusiro/SCA-T)  
+15. [2025 MICCAI] Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning [[paper]](https://arxiv.org/pdf/2506.23827)  
+16. [2024 ICCV] CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf)[[code]](https://github.com/iyyakuttiiyappan/CPLIP)  
+17. [2025 ICCV] AcZeroTS: Active Learning for Zero-shot Tissue Segmentation in Pathology Images  
+18. [2025 ICCV] ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology [[paper]](https://arxiv.org/pdf/2503.17564)  
+19. [2025 ICCV] COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation [[paper]](https://arxiv.org/pdf/2503.11439)[[code]](https://github.com/shjo-april/COIN)  
 ---
 
 <a id="clip"></a>
