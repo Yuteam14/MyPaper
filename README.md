@@ -46,8 +46,7 @@
 9. [2025 AAAI] Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP [[paper]](https://arxiv.org/pdf/2412.11375)[[code]](https://github.com/MCPathology/NH2ST)  
 
 <a id="clip"></a>
-## classic Model
-
+## Benchmark
 
 
 <a id="dataset-resources"></a>
