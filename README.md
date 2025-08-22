@@ -47,7 +47,7 @@
 
 <a id="clip"></a>
 ## Benchmark
-1. [2025 CVPR] MedCAL-Bench: A Comprehensive Benchmark on Cold-Start Active Learning with Foundation Models for Medical Image Analysis [[paper]](https://arxiv.org/pdf/2508.03441)[[code]]([https://github.com/MCPathology/NH2ST](https://github.com/HiLab-git/MedCAL-Bench)  
+1. [2025 CVPR] MedCAL-Bench: A Comprehensive Benchmark on Cold-Start Active Learning with Foundation Models for Medical Image Analysis [[paper]](https://arxiv.org/pdf/2508.03441)[[code]](https://github.com/HiLab-git/MedCAL-Bench)   
 2. [2025 CV] Tile-level Histopathology image Understanding benchmark [[paper]](https://arxiv.org/pdf/2507.07860)[[code]](https://github.com/MICS-Lab/thunder)   
 
 <a id="dataset-resources"></a>
