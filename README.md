@@ -2,7 +2,7 @@
 
 ## Content
 1. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
-2. [Classic Model](#classic-model)
+2. [Base Model](#Base-model)
 3. [Benchmark](#Benchmark)
 4. [Dataset Resources](#dataset-resources)
 
@@ -33,7 +33,7 @@
 ---
 
 <a id="clip"></a>
-## classic Model
+## Base Model
 
 1. [2025 CVPR] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](待补充)  
 2. [2025-ICLR] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP) [[note]](https://yuteam14.github.io/MyPaper/Note/%E6%96%87%E7%8C%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-3.pdf)      
