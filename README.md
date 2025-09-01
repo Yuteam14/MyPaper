@@ -18,10 +18,10 @@
 2. [2025-ICLR] MULTIMODALITY HELPS FEW-SHOT 3D POINT CLOUD SEMANTIC SEGMENTATION [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder)  
 3. [2025-ICCV] Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds [[paper]](https://arxiv.org/pdf/2503.12068) [[code]](https://github.com/QingchenTang/PBIP?tab=readme-ov-file)  
 ---
-### Retrieval / Representation Learning
+### Information Retrieval
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](待补充) [[code]](https://github.com/JingjunYi/D-CAM)  
 ---
-### Localization / Cross-modal Alignment
+### Localization
 1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[paper]](https://arxiv.org/pdf/2506.17136)
 ---
 ### Test-time Adaptation
