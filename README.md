@@ -1,25 +1,27 @@
 # Research Papers
 
 ## Content
-1. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
-2. [Base Model](#Base-model)
-3. [Benchmark](#Benchmark)
-4. [Dataset Resources](#dataset-resources)
+1. [3D Point Cloud Processing](#3d-point-cloud-processing)
+2. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
+3. [Base Model](#Base-model)
+4. [Benchmark](#Benchmark)
+5. [Dataset Resources](#dataset-resources)
 
 ---
 
 <a id="medical-image-semantic-segmentation"></a>
-## 3D Point Cloud Processing — Task-based Classification
+## 3D Point Cloud Processing
 ### OOD Detection
-1. [2025-ICCV] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation [[paper]](https://arxiv.org/pdf/2407.13768)  
+1. [2025-ICCV] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation [[paper]](https://arxiv.org/pdf/2506.22375)  
 ---
 ### Segmentation&&Few-shot Learning
-1. [2025-CVPR] Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Multi-modal_Topology-embedded_Graph_Learning_for_Spatially_Resolved_Genes_Prediction_from_CVPR_2025_paper.pdf) [[code]](https://github.com/MedAIerHHL/CVPR-MIA)  
-2. [2025-ICLR] MULTIMODALITY HELPS FEW-SHOT 3D POINT CLOUD SEMANTIC SEGMENTATION [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder)  
-3. [2025-ICCV] Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds [[paper]](https://arxiv.org/pdf/2503.12068) [[code]](https://github.com/QingchenTang/PBIP?tab=readme-ov-file)  
+1. [2025-CVPR] Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/An_Generalized_Few-shot_3D_Point_Cloud_Segmentation_with_Vision-Language_Model_CVPR_2025_paper.pdf) [[code]](https://github.com/ZhaochongAn/GFS-VL)  
+2. [2025-ICLR] MULTIMODALITY HELPS FEW-SHOT 3D POINT CLOUD SEMANTIC SEGMENTATION [[paper]](https://openreview.net/pdf?id=jXvwJ51vcK) [[code]](https://github.com/ZhaochongAn/Multimodality-3D-Few-Shot)  
+3. [2025-ICCV] Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds [[paper]](https://arxiv.org/pdf/2508.11265) [[code]](https://github.com/lizhangjie316/Awesome-3D-Point-Cloud-Semantic-Segement)  
 ---
 ### Information Retrieval
-1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](待补充) [[code]](https://github.com/JingjunYi/D-CAM)  
+1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D
+ Object Retrieval) [[code]](https://github.com/wangzhichuan123/DAC)  
 ---
 ### Localization
 1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[paper]](https://arxiv.org/pdf/2506.17136)
