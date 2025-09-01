@@ -11,7 +11,7 @@
 <a id="medical-image-semantic-segmentation"></a>
 ## 3D Point Cloud Processing — Task-based Classification
 
-### OOD Detection / Generalization / Test-time Adaptation
+### OOD Detection
 1. [2025-ICCV] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation [[paper]](https://arxiv.org/pdf/2407.13768)  
 
 ---
