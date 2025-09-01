@@ -18,6 +18,7 @@
 1. [2025-CVPR] Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/An_Generalized_Few-shot_3D_Point_Cloud_Segmentation_with_Vision-Language_Model_CVPR_2025_paper.pdf) [[code]](https://github.com/ZhaochongAn/GFS-VL)  
 2. [2025-ICLR] MULTIMODALITY HELPS FEW-SHOT 3D POINT CLOUD SEMANTIC SEGMENTATION [[paper]](https://openreview.net/pdf?id=jXvwJ51vcK) [[code]](https://github.com/ZhaochongAn/Multimodality-3D-Few-Shot)  
 3. [2025-ICCV] Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds [[paper]](https://arxiv.org/pdf/2508.11265) [[code]](https://github.com/lizhangjie316/Awesome-3D-Point-Cloud-Semantic-Segement)  
+4. [2025-CVPR] LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_LogoSP_Local-global_Grouping_of_Superpoints_for_Unsupervised_Semantic_Segmentation_of_CVPR_2025_paper.pdf) [[code]](https://github.com/vLAR-group/LogoSP)
 ---
 ### Information Retrieval
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)  
