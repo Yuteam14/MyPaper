@@ -17,38 +17,18 @@
 3. [2025-ICML] SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds [[code]](https://github.com/lilab-stanford/MUSK)  
 4. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2504.02008) [[code]](https://github.com/ecoxial2007/Expert-CFG)  
 5. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://arxiv.org/pdf/2503.17564)  
-
 ---
-
-### Segmentation / Few-shot Learning
+### Segmentation&&Few-shot Learning
 1. [2025-CVPR] Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Multi-modal_Topology-embedded_Graph_Learning_for_Spatially_Resolved_Genes_Prediction_from_CVPR_2025_paper.pdf) [[code]](https://github.com/MedAIerHHL/CVPR-MIA)  
 2. [2025-ICLR] MULTIMODALITY HELPS FEW-SHOT 3D POINT CLOUD SEMANTIC SEGMENTATION [[paper]](https://arxiv.org/pdf/2507.07860) [[code]](https://github.com/MICS-Lab/thunder)  
 3. [2025-ICCV] Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds [[paper]](https://arxiv.org/pdf/2503.12068) [[code]](https://github.com/QingchenTang/PBIP?tab=readme-ov-file)  
-
 ---
-
 ### Retrieval / Representation Learning
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](待补充) [[code]](https://github.com/JingjunYi/D-CAM)  
 2. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2506.20988)  
-
 ---
-
 ### Localization / Cross-modal Alignment
 1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[paper]](https://arxiv.org/pdf/2506.17136)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <a id="medical-image-semantic-segmentation"></a>
 ## Medical Image Semantic Segmentation
