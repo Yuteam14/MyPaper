@@ -13,9 +13,7 @@
 
 ### OOD Detection / Generalization / Test-time Adaptation
 1. [2025-ICCV] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation [[paper]](https://arxiv.org/pdf/2407.13768)  
-2. [2025-ICML] SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds [[code]](https://github.com/lilab-stanford/MUSK)  
-3. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2504.02008) [[code]](https://github.com/ecoxial2007/Expert-CFG)  
-4. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://arxiv.org/pdf/2503.17564)  
+
 ---
 ### Segmentation&&Few-shot Learning
 1. [2025-CVPR] Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Multi-modal_Topology-embedded_Graph_Learning_for_Spatially_Resolved_Genes_Prediction_from_CVPR_2025_paper.pdf) [[code]](https://github.com/MedAIerHHL/CVPR-MIA)  
@@ -26,7 +24,12 @@
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](待补充) [[code]](https://github.com/JingjunYi/D-CAM)  
 ---
 ### Localization / Cross-modal Alignment
-1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[paper]](https://arxiv.org/pdf/2506.17136)  
+1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[paper]](https://arxiv.org/pdf/2506.17136)
+
+### Generalization / Test-time Adaptation
+1. [2025-ICML] SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds [[code]](https://github.com/lilab-stanford/MUSK)  
+2. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2504.02008) [[code]](https://github.com/ecoxial2007/Expert-CFG)  
+3. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://arxiv.org/pdf/2503.17564)  
 
 <a id="medical-image-semantic-segmentation"></a>
 ## Medical Image Semantic Segmentation
