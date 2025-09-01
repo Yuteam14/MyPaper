@@ -25,7 +25,6 @@
 ---
 ### Retrieval / Representation Learning
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](待补充) [[code]](https://github.com/JingjunYi/D-CAM)  
-2. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2506.20988)  
 ---
 ### Localization / Cross-modal Alignment
 1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[paper]](https://arxiv.org/pdf/2506.17136)  
