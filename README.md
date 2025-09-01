@@ -9,6 +9,36 @@
 ---
 
 <a id="medical-image-semantic-segmentation"></a>
+## 3D Point Cloud Processing
+
+1. [2025-ICCV] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation [[paper]](https://arxiv.org/pdf/2407.13768)  
+2. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](待补充) [[code]](https://github.com/JingjunYi/D-CAM)  
+3. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[paper]](https://arxiv.org/pdf/2506.17136)   
+4. [2025-ICCV] Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds [[paper]](https://arxiv.org/pdf/2503.12068)[[code]](https://github.com/QingchenTang/PBIP?tab=readme-ov-file)  
+5. [2025-CVPR] Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Multi-modal_Topology-embedded_Graph_Learning_for_Spatially_Resolved_Genes_Prediction_from_CVPR_2025_paper.pdf)[[code]](https://github.com/MedAIerHHL/CVPR-MIA)  
+6. [2025-arXiv] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation [[paper]](https://openreview.net/pdf?id=trj2Jq8riA)[[code]]  (https://github.com/liupei101/VLSA?tab=readme-ov-file#-awesome-papers-of-pathology-vlms)  
+7. [2025-ICLR] MULTIMODALITY HELPS FEW-SHOT 3D POINT CLOUD SEMANTIC SEGMENTATION [[paper]](https://arxiv.org/pdf/2507.07860)[[code]](https://github.com/MICS-Lab/thunder)   
+8. [2025-ICML] SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds [[code]](https://github.com/lilab-stanford/MUSK)   
+9. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2504.02008)[[code]](https://github.com/ecoxial2007/Expert-CFG)   
+10. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://arxiv.org/pdf/2503.17564)  
+11. [2025 arXiv] Segment Anything in Pathology Images with Natural Language [[paper]](https://arxiv.org/pdf/2506.20988)  
+12. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.11055)
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a id="medical-image-semantic-segmentation"></a>
 ## Medical Image Semantic Segmentation
 
 1. [2025 MICCAI] Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models [[paper]](https://arxiv.org/pdf/2407.13768)  
