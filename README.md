@@ -20,8 +20,9 @@
 3. [2025-ICCV] Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds [[paper]](https://arxiv.org/pdf/2508.11265) [[code]](https://github.com/lizhangjie316/Awesome-3D-Point-Cloud-Semantic-Segement)  
 4. [2025-CVPR] LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_LogoSP_Local-global_Grouping_of_Superpoints_for_Unsupervised_Semantic_Segmentation_of_CVPR_2025_paper.pdf) [[code]](https://github.com/vLAR-group/LogoSP)
 5. [2025-ICCV] UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2507.18997) [[code]](https://github.com/zhoujiahuan1991/ICCV2025-UPP)  
-6. [2025-ICCV] All in One: Visual-Description-Guided Unified Point Cloud Segmentation [[paper]](https://arxiv.org/pdf/2507.05211) [[code]](https://github.com/Hanzy1996/VDG-Uni3DSeg)
----
+6. [2025-ICCV] All in One: Visual-Description-Guided Unified Point Cloud Segmentation [[paper]](https://arxiv.org/pdf/2507.05211) [[code]](https://github.com/Hanzy1996/VDG-Uni3DSeg)  
+7. [2025-ICCV] LUDVIG: Learning-Free Uplifting of 2D Visual Features to Gaussian Splatting Scenes [[paper]](https://arxiv.org/pdf/2410.14462) [[code]](https://github.com/naver/ludvig)  
+8. [2025-ICCV] WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images [[paper]](https://arxiv.org/pdf/2503.08407)  
 ### Classification
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning  
 ---
