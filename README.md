@@ -22,6 +22,9 @@
 5. [2025-ICCV] UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2507.18997) [[code]](https://github.com/zhoujiahuan1991/ICCV2025-UPP)  
 6. [2025-ICCV] All in One: Visual-Description-Guided Unified Point Cloud Segmentation [[paper]](https://arxiv.org/pdf/2507.05211) [[code]](https://github.com/Hanzy1996/VDG-Uni3DSeg)
 ---
+### Classification
+1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning  
+---
 ### Information Retrieval
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)  
 ---
