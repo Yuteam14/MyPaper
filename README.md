@@ -2,10 +2,11 @@
 
 ## Content
 1. [3D Point Cloud Processing](#3d-point-cloud-processing)
-2. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
-3. [Base Model](#Base-model)
-4. [Benchmark](#Benchmark)
-5. [Dataset Resources](#dataset-resources)
+2. [Language Correction](#language-correction)
+3. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
+4. [Base Model](#Base-model)
+5. [Benchmark](#Benchmark)
+6. [Dataset Resources](#dataset-resources)
 
 ---
 
@@ -37,8 +38,12 @@
 2. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2503.12150) [[code]](https://github.com/auniquesun/Point-Cache)  
 3. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging
 ---
+<a id="language-correction"></a>
+1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[code]](https://github.com/Afoolbird/PMSH)  
 
 
+
+---
 <a id="medical-image-semantic-segmentation"></a>
 ## Medical Image Semantic Segmentation
 
