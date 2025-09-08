@@ -2,7 +2,7 @@
 
 ## Content
 1. [3D Point Cloud Processing](#3d-point-cloud-processing)
-2. [Language Correction](#language-correction)
+2. [Unsupervised Cross-lingual Alignment](#language-correction)
 3. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
 4. [Base Model](#Base-model)
 5. [Benchmark](#Benchmark)
@@ -34,7 +34,7 @@
 3. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1863) [[code]](https://github.com/MosyMosy/Purge-Gate)  
 ---
 <a id="language-correction"></a>
-## Language Correction
+## Unsupervised Cross-lingual Alignment
 1. [2025-ICCV] On aNovel Application of Wasserstein-Procrustes for Unsupervised Cross-Lingual Alignment of Embeddings [[paper]](https://aclanthology.org/2024.bucc-1.1.pdf)  
 2. [2020-arXiv] A Call for More Rigor in Unsupervised Cross-lingual Learning [[paper]](https://arxiv.org/pdf/2004.14958)  
 3. [2025-ICLR] UNSUPERVISED HYPERALIGNMENT FOR MULTILIN GUAL WORD EMBEDDINGS [[paper]](https://arxiv.org/pdf/1811.01124)  
