@@ -9,12 +9,10 @@
 6. [Dataset Resources](#dataset-resources)
 
 ---
-
 <a id="medical-image-semantic-segmentation"></a>
 ## 3D Point Cloud Processing
 ### OOD Detection
 1. [2025-ICCV] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation [[paper]](https://arxiv.org/pdf/2506.22375)  
----
 ### Segmentation&&Few-shot Learning
 1. [2025-CVPR] Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/An_Generalized_Few-shot_3D_Point_Cloud_Segmentation_with_Vision-Language_Model_CVPR_2025_paper.pdf) [[code]](https://github.com/ZhaochongAn/GFS-VL)  
 2. [2025-ICLR] MULTIMODALITY HELPS FEW-SHOT 3D POINT CLOUD SEMANTIC SEGMENTATION [[paper]](https://openreview.net/pdf?id=jXvwJ51vcK) [[code]](https://github.com/ZhaochongAn/Multimodality-3D-Few-Shot)  
@@ -38,6 +36,8 @@
 <a id="language-correction"></a>
 ## Language Correction
 1. [2025-ICCV] On aNovel Application of Wasserstein-Procrustes for Unsupervised Cross-Lingual Alignment of Embeddings [[paper]](https://aclanthology.org/2024.bucc-1.1.pdf)  
+2. [2020-arXiv] A Call for More Rigor in Unsupervised Cross-lingual Learning [[paper]](https://arxiv.org/pdf/2004.14958)  
+3. [2025-ICLR] UNSUPERVISED HYPERALIGNMENT FOR MULTILIN GUAL WORD EMBEDDINGS [[paper]](https://arxiv.org/pdf/1811.01124)  
 
 
 ---
