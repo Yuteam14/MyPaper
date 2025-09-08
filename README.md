@@ -24,7 +24,7 @@
 7. [2025-ICCV] LUDVIG: Learning-Free Uplifting of 2D Visual Features to Gaussian Splatting Scenes [[paper]](https://arxiv.org/pdf/2410.14462) [[code]](https://github.com/naver/ludvig)  
 8. [2025-ICCV] WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images [[paper]](https://arxiv.org/pdf/2503.08407)  
 ### Classification
-1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning  
+1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
 ---
 ### Information Retrieval
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)  
