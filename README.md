@@ -36,11 +36,11 @@
 ### Test-time Adaptation
 1. [2025-ICML] SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds [[paper]](https://arxiv.org/pdf/2505.19546) [[code]](https://github.com/AliBahri94/SMART-PC)  
 2. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2503.12150) [[code]](https://github.com/auniquesun/Point-Cache)  
-3. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://aclanthology.org/2024.bucc-1.1.pdf)  
+3. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1863) [[code]](https://github.com/MosyMosy/Purge-Gate)  
 ---
 <a id="language-correction"></a>
 ## Language Correction
-1. [2025-ICCV] On aNovel Application of Wasserstein-Procrustes for Unsupervised Cross-Lingual Alignment of Embeddings
+1. [2025-ICCV] On aNovel Application of Wasserstein-Procrustes for Unsupervised Cross-Lingual Alignment of Embeddings [[paper]](https://aclanthology.org/2024.bucc-1.1.pdf)  
 
 
 ---
