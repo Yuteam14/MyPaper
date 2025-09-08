@@ -26,13 +26,10 @@
 8. [2025-ICCV] WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images [[paper]](https://arxiv.org/pdf/2503.08407)  
 ### Classification
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
----
 ### Information Retrieval
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)  
----
 ### Localization
 1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[code]](https://github.com/Afoolbird/PMSH)  
----
 ### Test-time Adaptation
 1. [2025-ICML] SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds [[paper]](https://arxiv.org/pdf/2505.19546) [[code]](https://github.com/AliBahri94/SMART-PC)  
 2. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2503.12150) [[code]](https://github.com/auniquesun/Point-Cache)  
