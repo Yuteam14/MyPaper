@@ -41,7 +41,7 @@
 2. [2020-arXiv] A Call for More Rigor in Unsupervised Cross-lingual Learning [[paper]](https://arxiv.org/pdf/2004.14958)  
 3. [2025-ICLR] UNSUPERVISED HYPERALIGNMENT FOR MULTILIN GUAL WORD EMBEDDINGS [[paper]](https://arxiv.org/pdf/1811.01124)  
 4. [2023-ICCV] Black Box Few-Shot Adaptation for Vision-Language models [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf#page=4.97)[[code]](https://github.com/saic-fi/LFA) [[note]](https://yuteam14.github.io/MyPaper/Note/LFA%E6%96%B9%E6%B3%95.pdf)  
-5. [2018-arXiv] Unsupervised Alignment of Embeddings with Wasserstein Procrustes [[paper]](https://arxiv.org/pdf/1805.11222)[[code]](https://github.com/saic-fi/LFA)  
+5. [2018-arXiv] Unsupervised Alignment of Embeddings with Wasserstein Procrustes [[paper]](https://arxiv.org/pdf/1805.11222)  
 ---
 <a id="medical-image-semantic-segmentation"></a>
 ## Medical Image Semantic Segmentation
