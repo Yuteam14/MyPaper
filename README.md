@@ -29,7 +29,7 @@
 3. [2025-ICML] SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds [[paper]](https://arxiv.org/pdf/2505.19546) [[code]](https://github.com/AliBahri94/SMART-PC)  
 4. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2503.12150) [[code]](https://github.com/auniquesun/Point-Cache)  
 5. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1863) [[code]](https://github.com/MosyMosy/Purge-Gate)  
- PURGING
+
 ### Information Retrieval
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)  
 ### Localization
