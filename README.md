@@ -3,10 +3,11 @@
 ## Content
 1. [3D Point Cloud Processing](#3d-point-cloud-processing)
 2. [Unsupervised Cross-lingual Alignment](#language-correction)
-3. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
-4. [Base Model](#Base-model)
-5. [Benchmark](#Benchmark)
-6. [Dataset Resources](#dataset-resources)
+3. [Zero-shot](#zero-shot)
+4. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
+5. [Base Model](#Base-model)
+6. [Benchmark](#Benchmark)
+7. [Dataset Resources](#dataset-resources)
 
 ---
 <a id="medical-image-semantic-segmentation"></a>
@@ -44,6 +45,14 @@
 4. [2023-ICCV] Black Box Few-Shot Adaptation for Vision-Language models [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf#page=4.97)[[code]](https://github.com/saic-fi/LFA) [[note]](https://yuteam14.github.io/MyPaper/Note/LFA%E6%96%B9%E6%B3%95.pdf)  
 5. [2018-arXiv] Unsupervised Alignment of Embeddings with Wasserstein Procrustes [[paper]](https://arxiv.org/pdf/1805.11222)  
 ---
+
+<a id="zero-shot"></a>
+## Zero-shot
+1. [2025-arXiv] Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignmen [[paper]](https://arxiv.org/pdf/2508.15568)  
+
+
+---
+
 <a id="medical-image-semantic-segmentation"></a>
 ## Medical Image Semantic Segmentation
 
