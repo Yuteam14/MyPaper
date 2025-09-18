@@ -15,6 +15,7 @@
 
 ### OOD Detection
 1. [2025-ICCV] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation [[paper]](https://arxiv.org/pdf/2506.22375)  
+
 ### Segmentation&&Few-shot Learning
 1. [2025-CVPR] Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/An_Generalized_Few-shot_3D_Point_Cloud_Segmentation_with_Vision-Language_Model_CVPR_2025_paper.pdf) [[code]](https://github.com/ZhaochongAn/GFS-VL)  
 2. [2025-ICLR] MULTIMODALITY HELPS FEW-SHOT 3D POINT CLOUD SEMANTIC SEGMENTATION [[paper]](https://openreview.net/pdf?id=jXvwJ51vcK) [[code]](https://github.com/ZhaochongAn/Multimodality-3D-Few-Shot)  
@@ -24,6 +25,7 @@
 6. [2025-ICCV] All in One: Visual-Description-Guided Unified Point Cloud Segmentation [[paper]](https://arxiv.org/pdf/2507.05211) [[code]](https://github.com/Hanzy1996/VDG-Uni3DSeg)  
 7. [2025-ICCV] LUDVIG: Learning-Free Uplifting of 2D Visual Features to Gaussian Splatting Scenes [[paper]](https://arxiv.org/pdf/2410.14462) [[code]](https://github.com/naver/ludvig)  
 8. [2025-ICCV] WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images [[paper]](https://arxiv.org/pdf/2503.08407)  
+
 ### Classification&&Test-time Adaptation
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
 2. [2025-ICCV] PURGE-GATE: BACKPROPAGATION-FREE TEST-TIME ADAPTATION FOR POINT CLOUDS CLASSIFICATION VIA TOKEN [[paper]](https://arxiv.org/pdf/2509.09785v1)
@@ -33,6 +35,7 @@
 
 ### Information Retrieval
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)  
+
 ### Localization
 1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[code]](https://github.com/Afoolbird/PMSH)  
 ---
@@ -49,6 +52,7 @@
 <a id="zero-shot"></a>
 ## Zero-shot
 1. [2025-arXiv] Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignmen [[paper]](https://arxiv.org/pdf/2508.15568)  
+2. [2024-NeurIPS] Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/03cdf8e212ba92a3f36bffe1391928bd-Paper-Conference.pdf)  
 
 
 ---
