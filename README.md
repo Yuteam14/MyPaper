@@ -53,6 +53,7 @@
 ## Zero-shot
 1. [2025-arXiv] Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignmen [[paper]](https://arxiv.org/pdf/2508.15568)  
 2. [2024-NeurIPS] Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/03cdf8e212ba92a3f36bffe1391928bd-Paper-Conference.pdf)  
+3. [2025-CVPR]  OnlineAnySeg: Online Zero-Shot 3D Segmentation by Visual Foundation Model Guided 2D Mask Merging [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_OnlineAnySeg_Online_Zero-Shot_3D_Segmentation_by_Visual_Foundation_Model_Guided_CVPR_2025_paper.pdf)  
 
 
 ---
