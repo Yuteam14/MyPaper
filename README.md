@@ -38,6 +38,9 @@
 
 ### Localization
 1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[code]](https://github.com/Afoolbird/PMSH)  
+
+### 3D Reconstruction
+1. [2025-arXiv] MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[paper]](https://map-anything.github.io/assets/MapAnything.pdf) [[code]](https://github.com/facebookresearch/map-anything)  
 ---
 <a id="language-correction"></a>
 ## Unsupervised Cross-lingual Alignment
