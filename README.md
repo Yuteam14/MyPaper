@@ -46,6 +46,12 @@
 4. [2023-ICCV] Black Box Few-Shot Adaptation for Vision-Language models [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf#page=4.97)[[code]](https://github.com/saic-fi/LFA) [[note]](https://yuteam14.github.io/MyPaper/Note/LFA%E6%96%B9%E6%B3%95.pdf)  
 5. [2018-arXiv] Unsupervised Alignment of Embeddings with Wasserstein Procrustes [[paper]](https://arxiv.org/pdf/1805.11222)  
 6. [2023-ACL] Unbalanced Optimal Transport for Unbalanced Word Alignment [[paper]](https://aclanthology.org/2023.acl-long.219.pdf)  
+7. [2019-NAACL] Density Matching for Bilingual Word Embedding [[paper]](https://arxiv.org/pdf/1904.02343) [[code]](https://github.com/violet-zct/DeMa-BWE)  
+8. [2025-ICML] Towards an Explainable Comparison and Alignment of Feature Embeddings [[paper]](https://arxiv.org/pdf/2506.06231) [[code]](https://github.com/mjalali/embedding-comparison)  
+9. [2025-ACL] Non-linear instance-based cross-lingual mapping for non-isomorphic embedding spaces [[paper]](https://aclanthology.org/2020.acl-main.675.pdf) [[code]](https://aclanthology.org/2020.acl-main.675.pdf)  
+10. [2019-ACL] Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces [[paper]](https://arxiv.org/pdf/1908.06625)  
+11. [2018-EMNLP] Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion [[paper]](https://arxiv.org/pdf/1804.07745)  
+12. [2019-TACL] 2019-Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach [[paper]](https://arxiv.org/pdf/1808.08773)  
 ---
 
 <a id="zero-shot"></a>
