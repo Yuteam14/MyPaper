@@ -83,11 +83,11 @@
 <a id="clip"></a>
 ## Base Model
 
-1. [2025 CVPR] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](待补充)  
+1. [2025 CVPR] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](待补充)   
 2. [2025-ICLR] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP) [[note]](https://yuteam14.github.io/MyPaper/Note/%E6%96%87%E7%8C%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-3.pdf)      
 3. [2024-arXiv] Boosting Vision-Language Models with Transduction [[paper]](https://arxiv.org/pdf/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)  
 4. [2025 arXiv] ViLU: Learning Vision-Language Uncertainties for Failure Prediction [[paper]](https://arxiv.org/pdf/2507.07620)[[code]](https://github.com/ykrmm/ViLU)  
-5. [2025 arXiv] SGPMIL: Sparse Gaussian Process Multiple Instance Learning [[paper]](https://arxiv.org/pdf/2507.08711)  
+5. [2025 arXiv] SGPMIL: Sparse Gaussian Process Multiple Instance Learning [[paper]](https://arxiv.org/pdf/2507.08711)   
 6. [2025 arXiv] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model [[paper]](https://arxiv.org/pdf/2506.23822)  
 7. [2023 ICCV] Black Box Few-Shot Adaptation for Vision-Language models [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf#page=4.97)[[code]](https://github.com/saic-fi/LFA) [[note]](https://yuteam14.github.io/MyPaper/Note/LFA%E6%96%B9%E6%B3%95.pdf)  
 8. [2025 CVPR] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models [[paper]](https://arxiv.org/pdf/2501.11175)[[code]](https://github.com/ybendou/ProKeR)  
