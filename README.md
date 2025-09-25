@@ -38,7 +38,7 @@
 ### 3D Reconstruction
 1. [2025-arXiv] MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[paper]](https://map-anything.github.io/assets/MapAnything.pdf) [[code]](https://github.com/facebookresearch/map-anything)  
 ### 3D-text Alignment
-1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283) [[code]](https://github.com/Souhail-01/3d-text alignment)  
+1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)
 ---
 <a id="language-correction"></a>
 ## Unsupervised Cross-lingual Alignment
