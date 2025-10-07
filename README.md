@@ -24,7 +24,8 @@
 6. [2025-ICCV] All in One: Visual-Description-Guided Unified Point Cloud Segmentation [[paper]](https://arxiv.org/pdf/2507.05211) [[code]](https://github.com/Hanzy1996/VDG-Uni3DSeg)  
 7. [2025-ICCV] LUDVIG: Learning-Free Uplifting of 2D Visual Features to Gaussian Splatting Scenes [[paper]](https://arxiv.org/pdf/2410.14462) [[code]](https://github.com/naver/ludvig)  
 8. [2025-ICCV] WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images [[paper]](https://arxiv.org/pdf/2503.08407)  
-9. [2025-arXiv] SegDINO3D: 3D Instance Segmentation Empowered by Both Image-Level and Object-Level 2D Features [[paper]](https://arxiv.org/pdf/2509.16098)  
+9. [2025-arXiv] SegDINO3D: 3D Instance Segmentation Empowered by Both Image-Level and Object-Level 2D Features [[paper]](https://arxiv.org/pdf/2509.16098)
+10. [2025-ICCV] SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining [[paper]](https://arxiv.org/pdf/2503.18052) [[code]](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers)   
 ### Classification&&Test-time Adaptation
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
 2. [2025-ICCV] PURGE-GATE: BACKPROPAGATION-FREE TEST-TIME ADAPTATION FOR POINT CLOUDS CLASSIFICATION VIA TOKEN [[paper]](https://arxiv.org/pdf/2509.09785v1)
