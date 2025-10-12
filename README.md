@@ -104,6 +104,7 @@
 8. [2025 CVPR] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models [[paper]](https://arxiv.org/pdf/2501.11175)[[code]](https://github.com/ybendou/ProKeR)  
 9. [2025 AAAI] Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP [[paper]](https://arxiv.org/pdf/2412.11375)[[code]](https://github.com/MCPathology/NH2ST)  
 10. [2025 CVPR] ViLU: Learning Vision-Language Uncertainties for Failure Prediction [[paper]](https://arxiv.org/pdf/2507.07620?)[[code]](https://github.com/ykrmm/ViLU)  
+11. [2025-arXiv] Recent Advances in Optimal Transport for Machine Learning [[paper]](https://arxiv.org/pdf/2306.16156)
 
 <a id="clip"></a>
 ## Benchmark
