@@ -56,7 +56,8 @@
 10. [2019-ACL] Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces [[paper]](https://arxiv.org/pdf/1908.06625)  
 11. [2018-EMNLP] Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion [[paper]](https://arxiv.org/pdf/1804.07745)  
 12. [2019-TACL] Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach [[paper]](https://arxiv.org/pdf/1808.08773)  
-13. [2026-ICLR] TRANSPORT CLUSTERING: SOLVING LOW-RANK OPTIMALTRANSPORT VIA CLUSTERING [[paper]](https://openreview.net/attachment?id=YKTJJCNXF4&name=pdf)
+13. [2026-ICLR] TRANSPORT CLUSTERING: SOLVING LOW-RANK OPTIMALTRANSPORT VIA CLUSTERING [[paper]](https://openreview.net/attachment?id=YKTJJCNXF4&name=pdf)  
+14. [2026-ICLR] FLOW-BASED ALIGNMENT OF UNI-MODAL VISION AND TEXT ENCODERS FOR FEW-SHOT IMAGE CLASSIFICATION [[paper]](https://openreview.net/attachment?id=educGk5ykl&name=pdf)
 ---
 
 <a id="zero-shot"></a>
@@ -105,8 +106,11 @@
 8. [2025 CVPR] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models [[paper]](https://arxiv.org/pdf/2501.11175)[[code]](https://github.com/ybendou/ProKeR)  
 9. [2025 AAAI] Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP [[paper]](https://arxiv.org/pdf/2412.11375)[[code]](https://github.com/MCPathology/NH2ST)  
 10. [2025 CVPR] ViLU: Learning Vision-Language Uncertainties for Failure Prediction [[paper]](https://arxiv.org/pdf/2507.07620?)[[code]](https://github.com/ykrmm/ViLU)  
-11. [2025-arXiv] Recent Advances in Optimal Transport for Machine Learning [[paper]](https://arxiv.org/pdf/2306.16156)
-
+11. [2025-arXiv] Recent Advances in Optimal Transport for Machine Learning [[paper]](https://arxiv.org/pdf/2306.16156)  
+12. [2026 ICLR] A NOVEL GRAPH-BASED FUZZY CLUSTERING FOR DEEP VISUAL REPRESENTATIONS [[paper]](https://openreview.net/attachment?id=AorEBT2QLl&name=pdf)  
+13. [2026 ICLR] UNCOVER UNDERLYING CORRESPONDENCE FOR ROBUS TMULTI-VIEW CLUSTERING [[paper]](https://openreview.net/attachment?id=a4S1nQay3b&name=pdf)  
+14. [2026 ICLR] REORIENTING THE FROZEN SPACE: TRAINING-FREE TEST-TIME ADAPTATION BY GEOMETRIC TRANSFORMATION [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
+---
 <a id="clip"></a>
 ## Benchmark
 1. [2025 CVPR] MedCAL-Bench: A Comprehensive Benchmark on Cold-Start Active Learning with Foundation Models for Medical Image Analysis [[paper]](https://arxiv.org/pdf/2508.03441)[[code]](https://github.com/HiLab-git/MedCAL-Bench)   
