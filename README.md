@@ -55,7 +55,8 @@
 9. [2025-ACL] Non-linear instance-based cross-lingual mapping for non-isomorphic embedding spaces [[paper]](https://aclanthology.org/2020.acl-main.675.pdf) [[code]](https://aclanthology.org/2020.acl-main.675.pdf)  
 10. [2019-ACL] Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces [[paper]](https://arxiv.org/pdf/1908.06625)  
 11. [2018-EMNLP] Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion [[paper]](https://arxiv.org/pdf/1804.07745)  
-12. [2019-TACL] 2019-Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach [[paper]](https://arxiv.org/pdf/1808.08773)  
+12. [2019-TACL] Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach [[paper]](https://arxiv.org/pdf/1808.08773)  
+13. [2026-ICLR] TRANSPORT CLUSTERING: SOLVING LOW-RANK OPTIMALTRANSPORT VIA CLUSTERING [[paper]](https://openreview.net/attachment?id=YKTJJCNXF4&name=pdf)
 ---
 
 <a id="zero-shot"></a>
