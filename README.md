@@ -58,7 +58,8 @@
 11. [2018-EMNLP] Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion [[paper]](https://arxiv.org/pdf/1804.07745)  
 12. [2019-TACL] Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach [[paper]](https://arxiv.org/pdf/1808.08773)  
 13. [2026-ICLR] TRANSPORT CLUSTERING: SOLVING LOW-RANK OPTIMALTRANSPORT VIA CLUSTERING [[paper]](https://openreview.net/attachment?id=YKTJJCNXF4&name=pdf)  
-14. [2026-ICLR] FLOW-BASED ALIGNMENT OF UNI-MODAL VISION AND TEXT ENCODERS FOR FEW-SHOT IMAGE CLASSIFICATION [[paper]](https://openreview.net/attachment?id=educGk5ykl&name=pdf)
+14. [2026-ICLR] FLOW-BASED ALIGNMENT OF UNI-MODAL VISION AND TEXT ENCODERS FOR FEW-SHOT IMAGE CLASSIFICATION [[paper]](https://openreview.net/attachment?id=educGk5ykl&name=pdf)  
+15. [2025-arXiv] EXPLORING CROSS-MODAL FLOWS FOR FEW-SHOT LEARNING [[paper]](https://arxiv.org/pdf/2510.14543)  
 ---
 
 <a id="zero-shot"></a>
