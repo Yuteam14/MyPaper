@@ -3,11 +3,12 @@
 ## Content
 1. [3D Point Cloud Processing](#3d-point-cloud-processing)
 2. [Unsupervised Cross-lingual Alignment](#language-correction)
-3. [Zero-shot](#zero-shot)
-4. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
-5. [Base Model](#Base-model)
-6. [Benchmark](#Benchmark)
-7. [Dataset Resources](#dataset-resources)
+3. [Few-shot](#few-shot)
+4. [Zero-shot](#zero-shot)
+5. [Medical Image Semantic Segmentation](#medical-image-semantic-segmentation)
+6. [Base Model](#Base-model)
+7. [Benchmark](#Benchmark)
+8. [Dataset Resources](#dataset-resources)
 
 ---
 <a id="medical-image-semantic-segmentation"></a>
@@ -62,6 +63,19 @@
 15. [2025-arXiv] EXPLORING CROSS-MODAL FLOWS FOR FEW-SHOT LEARNING [[paper]](https://arxiv.org/pdf/2510.14543)  
 ---
 
+<a id="few-shot"></a>
+## Few-shot
+1. [2026-ICLR] MUOT-CLIP: ENHANCINGFEW-SHOTADAPTATION OF CLIPVIAINTER-AND INTRA-MODALITY UNBALANCED OPTIMAL TRANSPORT [[paper]](https://openreview.net/attachment?id=BEOq3YB5WM&name=pdf)  
+2. [2026-ICLR] GRAPH-REFINED REPRESENTATION LEARNINGFOR FEW-SHOT CLASSIFICATION VIA CLIP ADAPTATION [[paper]](https://openreview.net/pdf?id=KQ9aK65BKm)   
+3. [2026-ICLR] INFER: EMBEDDING INTEGRATION WITH FEATURE REFINEMENT FOR FEW-SHOT LEARNINGIN VLMS [[paper]](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)   
+4. [2026-ICLR] SEMOBRIDGE: SEMANTIC MODALITY BRIDGE FOR EFFICIENT FEW-SHOT ADAPTATION OF CLIP [[paper]](https://openreview.net/attachment?id=8aT5yt8Vmt&name=pdf)   
+
+
+
+
+
+
+---
 <a id="zero-shot"></a>
 ## Zero-shot
 1. [2025-arXiv] Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignmen [[paper]](https://arxiv.org/pdf/2508.15568)  
