@@ -28,6 +28,7 @@
 9. [2025-arXiv] SegDINO3D: 3D Instance Segmentation Empowered by Both Image-Level and Object-Level 2D Features [[paper]](https://arxiv.org/pdf/2509.16098)  
 10. [2025-ICCV] SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining [[paper]](https://arxiv.org/pdf/2503.18052) [[code]](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers)  
 11. [2026-ICLR] FIXINGGS:ENHANCING 3D GAUSSIAN SPLATTING VIA TRAINING-FREE SCORE DISTILLATION [[paper]](https://openreview.net/attachment?id=QIjmCQuXyx&name=pdf)  
+12. [2026-ICLR] QUERY-AWARE HUB PROTOTYPE LEARNING FOR FEW-SHOT 3D POINT CLOUD SEGMENTATION [[paper]](https://openreview.net/attachment?id=AZl4sTVDCC&name=pdf)  
 ### Classification&&Test-time Adaptation
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
 2. [2025-ICCV] PURGE-GATE: BACKPROPAGATION-FREE TEST-TIME ADAPTATION FOR POINT CLOUDS CLASSIFICATION VIA TOKEN [[paper]](https://arxiv.org/pdf/2509.09785v1)
