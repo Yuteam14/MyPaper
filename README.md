@@ -66,10 +66,10 @@
 
 <a id="few-shot"></a>
 ## Few-shot
-1. [2026-ICLR] MUOT-CLIP: ENHANCINGFEW-SHOTADAPTATION OF CLIPVIAINTER-AND INTRA-MODALITY UNBALANCED OPTIMAL TRANSPORT [[paper]](https://openreview.net/attachment?id=BEOq3YB5WM&name=pdf)  
-2. [2026-ICLR] GRAPH-REFINED REPRESENTATION LEARNINGFOR FEW-SHOT CLASSIFICATION VIA CLIP ADAPTATION [[paper]](https://openreview.net/pdf?id=KQ9aK65BKm)   
-3. [2026-ICLR] INFER: EMBEDDING INTEGRATION WITH FEATURE REFINEMENT FOR FEW-SHOT LEARNINGIN VLMS [[paper]](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)   
-4. [2026-ICLR] SEMOBRIDGE: SEMANTIC MODALITY BRIDGE FOR EFFICIENT FEW-SHOT ADAPTATION OF CLIP [[paper]](https://openreview.net/attachment?id=8aT5yt8Vmt&name=pdf)   
+1. [2026-ICLR] Muot-Clip: Enhancing Few-Shot Adaptation Of Clip Via Inter- And Intra-Modality Unbalanced Optimal Transport [[paper]](https://openreview.net/attachment?id=BEOq3YB5WM&name=pdf)  
+2. [2026-ICLR] Graph-Refined Representation Learning For Few-Shot Classification Via Clip Adaptation [[paper]](https://openreview.net/pdf?id=KQ9aK65BKm)   
+3. [2026-ICLR] Infer: Embedding Integration With Feature Refinement For Few-Shot Learning In Vlms [[paper]](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)   
+4. [2026-ICLR] Semobridge: Semantic Modality Bridge For Efficient Few-Shot Adaptation Of Clip [[paper]](https://openreview.net/attachment?id=8aT5yt8Vmt&name=pdf)   
 5. [2025 CVPR] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models [[paper]](https://arxiv.org/pdf/2501.11175)[[code]](https://github.com/ybendou/ProKeR)  
 6. [2025 AAAI] Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP [[paper]](https://arxiv.org/pdf/2412.11375)[[code]](https://github.com/MCPathology/NH2ST)  
    
