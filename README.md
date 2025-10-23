@@ -27,11 +27,11 @@
 8. [2025-ICCV] WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images [[paper]](https://arxiv.org/pdf/2503.08407)  
 9. [2025-arXiv] SegDINO3D: 3D Instance Segmentation Empowered by Both Image-Level and Object-Level 2D Features [[paper]](https://arxiv.org/pdf/2509.16098)  
 10. [2025-ICCV] SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining [[paper]](https://arxiv.org/pdf/2503.18052) [[code]](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers)  
-11. [2026-ICLR] FIXINGGS:ENHANCING 3D GAUSSIAN SPLATTING VIA TRAINING-FREE SCORE DISTILLATION [[paper]](https://openreview.net/attachment?id=QIjmCQuXyx&name=pdf)  
-12. [2026-ICLR] QUERY-AWARE HUB PROTOTYPE LEARNING FOR FEW-SHOT 3D POINT CLOUD SEGMENTATION [[paper]](https://openreview.net/attachment?id=AZl4sTVDCC&name=pdf)  
+11. [2026-ICLR] Fixinggs: Enhancing 3D Gaussian Splatting Via Training-Free Score Distillation [[paper]](https://openreview.net/attachment?id=QIjmCQuXyx&name=pdf)  
+12. [2026-ICLR] Query-Aware Hub Prototype Learning For Few-Shot 3D Point Cloud Segmentation [[paper]](https://openreview.net/attachment?id=AZl4sTVDCC&name=pdf)  
 ### Classification&&Test-time Adaptation
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
-2. [2025-ICCV] PURGE-GATE: BACKPROPAGATION-FREE TEST-TIME ADAPTATION FOR POINT CLOUDS CLASSIFICATION VIA TOKEN [[paper]](https://arxiv.org/pdf/2509.09785v1)
+2. [2025-ICCV] Purge-Gate: Backpropagation-Free Test-Time Adaptation For Point Clouds Classification Via Token [[paper]](https://arxiv.org/pdf/2509.09785v1)
 3. [2025-ICML] SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds [[paper]](https://arxiv.org/pdf/2505.19546) [[code]](https://github.com/AliBahri94/SMART-PC)  
 4. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2503.12150) [[code]](https://github.com/auniquesun/Point-Cache)  
 5. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1863) [[code]](https://github.com/MosyMosy/Purge-Gate)  
@@ -59,9 +59,9 @@
 10. [2019-ACL] Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces [[paper]](https://arxiv.org/pdf/1908.06625)  
 11. [2018-EMNLP] Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion [[paper]](https://arxiv.org/pdf/1804.07745)  
 12. [2019-TACL] Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach [[paper]](https://arxiv.org/pdf/1808.08773)  
-13. [2026-ICLR] TRANSPORT CLUSTERING: SOLVING LOW-RANK OPTIMALTRANSPORT VIA CLUSTERING [[paper]](https://openreview.net/attachment?id=YKTJJCNXF4&name=pdf)  
-14. [2026-ICLR] FLOW-BASED ALIGNMENT OF UNI-MODAL VISION AND TEXT ENCODERS FOR FEW-SHOT IMAGE CLASSIFICATION [[paper]](https://openreview.net/attachment?id=educGk5ykl&name=pdf)  
-15. [2025-arXiv] EXPLORING CROSS-MODAL FLOWS FOR FEW-SHOT LEARNING [[paper]](https://arxiv.org/pdf/2510.14543)  
+13. [2026-ICLR] Transport Clustering: Solving Low-Rank Optimal Transport Via Clustering [[paper]](https://openreview.net/attachment?id=YKTJJCNXF4&name=pdf)  
+14. [2026-ICLR] Flow-Based Alignment Of Uni-Modal Vision And Text Encoders For Few-Shot Image Classification [[paper]](https://openreview.net/attachment?id=educGk5ykl&name=pdf)  
+15. [2025-arXiv] Exploring Cross-Modal Flows For Few-Shot Learning [[paper]](https://arxiv.org/pdf/2510.14543)  
 ---
 
 <a id="few-shot"></a>
@@ -121,9 +121,9 @@
 9. [2025 AAAI] Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP [[paper]](https://arxiv.org/pdf/2412.11375)[[code]](https://github.com/MCPathology/NH2ST)  
 10. [2025 CVPR] ViLU: Learning Vision-Language Uncertainties for Failure Prediction [[paper]](https://arxiv.org/pdf/2507.07620?)[[code]](https://github.com/ykrmm/ViLU)  
 11. [2025-arXiv] Recent Advances in Optimal Transport for Machine Learning [[paper]](https://arxiv.org/pdf/2306.16156)  
-12. [2026 ICLR] A NOVEL GRAPH-BASED FUZZY CLUSTERING FOR DEEP VISUAL REPRESENTATIONS [[paper]](https://openreview.net/attachment?id=AorEBT2QLl&name=pdf)  
-13. [2026 ICLR] UNCOVER UNDERLYING CORRESPONDENCE FOR ROBUS TMULTI-VIEW CLUSTERING [[paper]](https://openreview.net/attachment?id=a4S1nQay3b&name=pdf)  
-14. [2026 ICLR] REORIENTING THE FROZEN SPACE: TRAINING-FREE TEST-TIME ADAPTATION BY GEOMETRIC TRANSFORMATION [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
+12. [2026 ICLR] A Novel Graph-Based Fuzzy Clustering For Deep Visual Representations [[paper]](https://openreview.net/attachment?id=AorEBT2QLl&name=pdf)  
+13. [2026 ICLR] Uncover Underlying Correspondence For Robust Multi-View Clustering [[paper]](https://openreview.net/attachment?id=a4S1nQay3b&name=pdf)  
+14. [2026 ICLR] Reorienting The Frozen Space: Training-Free Test-Time Adaptation By Geometric Transformation [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
 ---
 <a id="clip"></a>
 ## Benchmark
