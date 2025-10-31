@@ -64,7 +64,7 @@
 13. [2026-ICLR] Transport Clustering: Solving Low-Rank Optimal Transport Via Clustering [[paper]](https://openreview.net/attachment?id=YKTJJCNXF4&name=pdf)  
 14. [2026-ICLR] Flow-Based Alignment Of Uni-Modal Vision And Text Encoders For Few-Shot Image Classification [[paper]](https://openreview.net/attachment?id=educGk5ykl&name=pdf)  
 15. [2025-arXiv] Exploring Cross-Modal Flows For Few-Shot Learning [[paper]](https://arxiv.org/pdf/2510.14543)  
-16. [2025-arXiv] Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment [[paper]](https://arxiv.org/pdf/2410.19294)  
+16. [2025-arXiv] Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment [[paper]](https://arxiv.org/pdf/2508.15568)  
 ---
 
 <a id="few-shot"></a>
