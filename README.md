@@ -6,8 +6,7 @@
 3. [Few-shot](#few-shot)
 4. [Zero-shot](#zero-shot)
 5. [Base Model](#Base-model)
-6. [Benchmark](#Benchmark)
-7. [Dataset Resources](#dataset-resources)
+6. [Dataset Resources](#dataset-resources)
 
 ---
 <a id="medical-image-semantic-segmentation"></a>
@@ -102,10 +101,6 @@
 13. [2026 ICLR] Uncover Underlying Correspondence For Robust Multi-View Clustering [[paper]](https://openreview.net/attachment?id=a4S1nQay3b&name=pdf)  
 14. [2026 ICLR] Reorienting The Frozen Space: Training-Free Test-Time Adaptation By Geometric Transformation [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
 ---
-<a id="clip"></a>
-## Benchmark
-1. [2025 CVPR] MedCAL-Bench: A Comprehensive Benchmark on Cold-Start Active Learning with Foundation Models for Medical Image Analysis [[paper]](https://arxiv.org/pdf/2508.03441)[[code]](https://github.com/HiLab-git/MedCAL-Bench)   
-2. [2025 CV] Tile-level Histopathology image Understanding benchmark [[paper]](https://arxiv.org/pdf/2507.07860)[[code]](https://github.com/MICS-Lab/thunder)   
 
 <a id="dataset-resources"></a>
 ## Dataset Resources
