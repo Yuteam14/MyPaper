@@ -43,8 +43,9 @@
 1. [2025-arXiv] MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[paper]](https://map-anything.github.io/assets/MapAnything.pdf) [[code]](https://github.com/facebookresearch/map-anything)  
 2. [2025-arXiv] Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey [[paper]](https://arxiv.org/pdf/2507.14501)  
 3. [2025-arXiv] IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction [[paper]](https://arxiv.org/pdf/2510.22706)  
-### 3D-text Alignment
-1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283) 
+### 3D Alignment
+1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
+2. [2025-arXiv] Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding [[paper]](https://arxiv.org/pdf/2502.15011)   
 ---
 <a id="language-correction"></a>
 ## Unsupervised Cross-lingual Alignment
