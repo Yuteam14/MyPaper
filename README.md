@@ -103,15 +103,13 @@
 11. [2025-arXiv] Recent Advances in Optimal Transport for Machine Learning [[paper]](https://arxiv.org/pdf/2306.16156)  
 12. [2026 ICLR] A Novel Graph-Based Fuzzy Clustering For Deep Visual Representations [[paper]](https://openreview.net/attachment?id=AorEBT2QLl&name=pdf)  
 13. [2026 ICLR] Uncover Underlying Correspondence For Robust Multi-View Clustering [[paper]](https://openreview.net/attachment?id=a4S1nQay3b&name=pdf)  
-14. [2026 ICLR] Reorienting The Frozen Space: Training-Free Test-Time Adaptation By Geometric Transformation [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
+14. [2026 ICLR] Reorienting The Frozen Space: Training-Free Test-Time Adaptation By Geometric Transformation [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)  
+15. [2025 CVPR] MMRL:Multi-Modal Representation Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2503.08497)  
 ---
 
 <a id="dataset-resources"></a>
 ## Dataset Resources
 
-- **医学影像**  
-  - [Medical Segmentation Decathlon](http://medicaldecathlon.com/) (多器官分割)  
-  - [BraTS](https://www.med.upenn.edu/cbica/brats/) (脑肿瘤分割)  
 
 - **通用视觉**  
   - [COCO](https://cocodataset.org) (开放词汇分割基准)
