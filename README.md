@@ -79,7 +79,7 @@
 5. [2025-CVPR] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models [[paper]](https://arxiv.org/pdf/2501.11175)[[code]](https://github.com/ybendou/ProKeR)  
 6. [2025-AAAI] Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP [[paper]](https://arxiv.org/pdf/2412.11375)[[code]](https://github.com/MCPathology/NH2ST)  
 7. [2025-ICCV] Unknown Text Learning for CLIP-based Few-shot Open-Set Recognition [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_Unknown_Text_Learning_for_CLIP-based_Few-Shot_Open-set_Recognition_ICCV_2025_paper.pdf)  
-8. [2025-CVPR] Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages [[paper]](https://arxiv.org/pdf/2503.11609)   
+8. [2025-CVPR] Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages [[paper]](https://arxiv.org/pdf/2503.11609)[[code]](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)  
 ---
 <a id="zero-shot"></a>
 ## Zero-shot
