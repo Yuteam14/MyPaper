@@ -46,8 +46,9 @@
 4. [2025-arXiv] Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS [[paper]](https://arxiv.org/pdf/2510.22706) [[code]](https://github.com/DrunkenPoet/GHAP)  
 ### 3D Alignment
 1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
-2. [2025-arXiv] Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding [[paper]](https://arxiv.org/pdf/2506.09534)
----
+2. [2025-arXiv] Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding [[paper]](https://arxiv.org/pdf/2506.09534)  
+3. [2025-NeurIPS] SCENEFORGE: Enhancing 3D-text alignment with Structured Scene Compositions [[paper]](https://arxiv.org/pdf/2509.15693) [[code]](https://github.com/mortorit/sceneforge-neurips2025)  
+--- 
 <a id="language-correction"></a>
 ## Unsupervised Cross-lingual Alignment
 
@@ -68,7 +69,8 @@
 15. [2025-arXiv] Exploring Cross-Modal Flows For Few-Shot Learning [[paper]](https://arxiv.org/pdf/2510.14543)  
 16. [2025-arXiv] Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment [[paper]](https://arxiv.org/pdf/2508.15568)  
 17. [2025-arXiv] Enhancing CLIP Robustness via Cross-Modality Alignment [[paper]](https://arxiv.org/pdf/2510.24038)  
-18. [2025-ICCV] Gaze-Language Alignment for Zero-Shot Prediction of Visual Search Targets from Human Gaze Scanpaths [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Mondal_Gaze-Language_Alignment_for_Zero-Shot_Prediction_of_Visual_Search_Targets_from_ICCV_2025_paper.pdf) 
+18. [2025-ICCV] Gaze-Language Alignment for Zero-Shot Prediction of Visual Search Targets from Human Gaze Scanpaths [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Mondal_Gaze-Language_Alignment_for_Zero-Shot_Prediction_of_Visual_Search_Targets_from_ICCV_2025_paper.pdf)
+19. [2025-NeurIPS] VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set [[paper]](https://arxiv.org/pdf/2510.21323) [[code]](https://github.com/ssfgunner/VL-SAE)  
 ---
 
 <a id="few-shot"></a>
