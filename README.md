@@ -14,7 +14,7 @@
 
 ### OOD Detection
 1. [2025-ICCV] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation [[paper]](https://arxiv.org/pdf/2506.22375)  
-### Segmentation&&Few-shot Learning
+### Segmentation&&Recognition
 1. [2025-CVPR] Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/An_Generalized_Few-shot_3D_Point_Cloud_Segmentation_with_Vision-Language_Model_CVPR_2025_paper.pdf) [[code]](https://github.com/ZhaochongAn/GFS-VL)  
 2. [2025-ICLR] MULTIMODALITY HELPS FEW-SHOT 3D POINT CLOUD SEMANTIC SEGMENTATION [[paper]](https://openreview.net/pdf?id=jXvwJ51vcK) [[code]](https://github.com/ZhaochongAn/Multimodality-3D-Few-Shot)  
 3. [2025-ICCV] Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds [[paper]](https://arxiv.org/pdf/2508.11265) [[code]](https://github.com/lizhangjie316/Awesome-3D-Point-Cloud-Semantic-Segement)  
@@ -26,10 +26,11 @@
 9. [2025-arXiv] SegDINO3D: 3D Instance Segmentation Empowered by Both Image-Level and Object-Level 2D Features [[paper]](https://arxiv.org/pdf/2509.16098)  
 10. [2025-ICCV] SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining [[paper]](https://arxiv.org/pdf/2503.18052) [[code]](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers)  
 11. [2025-arXiv] COS3D: Collaborative Open-Vocabulary 3D Segmentation [[paper]](https://arxiv.org/pdf/2510.20238v1)  
-12. [2025-CVPR] Cross-Modal 3D Representation with Multi-View Images and Point Clouds [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Cross-Modal_3D_Representation_with_Multi-View_Images_and_Point_Clouds_CVPR_2025_paper.pdf#:~:text=This%20paper%20introduces%20OpenView%2C%20a%20novel%20representation%20method,multi-view%20images%20to%20form%20a%20unified%203D%20representation.)
-13. [2025-arXiv] Is clustering enough for LiDAR instance segmentation? Astate-of-the-art training-free baseline [[paper]](https://arxiv.org/pdf/2503.13203)  
-14. [2026-ICLR] Fixinggs: Enhancing 3D Gaussian Splatting Via Training-Free Score Distillation [[paper]](https://openreview.net/attachment?id=QIjmCQuXyx&name=pdf)  
-15. [2026-ICLR] Query-Aware Hub Prototype Learning For Few-Shot 3D Point Cloud Segmentation [[paper]](https://openreview.net/attachment?id=AZl4sTVDCC&name=pdf)  
+12. [2025-CVPR] Cross-Modal 3D Representation with Multi-View Images and Point Clouds [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Cross-Modal_3D_Representation_with_Multi-View_Images_and_Point_Clouds_CVPR_2025_paper.pdf#:~:text=This%20paper%20introduces%20OpenView%2C%20a%20novel%20representation%20method,multi-view%20images%20to%20form%20a%20unified%203D%20representation.)  
+13. [2025-arXiv] Is clustering enough for LiDAR instance segmentation? Astate-of-the-art training-free baseline [[paper]](https://arxiv.org/pdf/2503.13203) [[code]](https://github.com/valeoai/Alpine/)  
+14. [2025-NeurIPS] L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery [[paper]](https://arxiv.org/pdf/2503.11245#page=12.51) [[code]](https://github.com/Shizw695/L2RSI)  
+15. [2026-ICLR] Fixinggs: Enhancing 3D Gaussian Splatting Via Training-Free Score Distillation [[paper]](https://openreview.net/attachment?id=QIjmCQuXyx&name=pdf)  
+16. [2026-ICLR] Query-Aware Hub Prototype Learning For Few-Shot 3D Point Cloud Segmentation [[paper]](https://openreview.net/attachment?id=AZl4sTVDCC&name=pdf)  
   
 ### Classification&&Test-time Adaptation
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
