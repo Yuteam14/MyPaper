@@ -44,10 +44,11 @@
 ### Localization
 1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[code]](https://github.com/Afoolbird/PMSH)  
 ### 3D Reconstruction
-1. [2025-arXiv] MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[paper]](https://map-anything.github.io/assets/MapAnything.pdf) [[code]](https://github.com/facebookresearch/map-anything)  
-2. [2025-arXiv] Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey [[paper]](https://arxiv.org/pdf/2507.14501)  
-3. [2025-arXiv] IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction [[paper]](https://arxiv.org/pdf/2510.22706)  
-4. [2025-arXiv] Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS [[paper]](https://arxiv.org/pdf/2510.22706) [[code]](https://github.com/DrunkenPoet/GHAP)  
+1. [2024-ICRA] LidarDM: Generative LiDAR Simulation in a Generated World [[paper]](https://arxiv.org/pdf/2404.02903) [[code]](https://arxiv.org/pdf/2404.02903)  
+2. [2025-arXiv] MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[paper]](https://map-anything.github.io/assets/MapAnything.pdf) [[code]](https://github.com/facebookresearch/map-anything)  
+3. [2025-arXiv] Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey [[paper]](https://arxiv.org/pdf/2507.14501)  
+4. [2025-arXiv] IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction [[paper]](https://arxiv.org/pdf/2510.22706)  
+5. [2025-arXiv] Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS [[paper]](https://arxiv.org/pdf/2510.22706) [[code]](https://github.com/DrunkenPoet/GHAP)  
 ### 3D Alignment
 1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
 2. [2025-arXiv] Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding [[paper]](https://arxiv.org/pdf/2506.09534)  
