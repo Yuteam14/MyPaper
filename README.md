@@ -39,11 +39,12 @@
 22. [2025-CVPR] Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Rethinking_End-to-End_2D_to_3D_Scene_Segmentation_in_Gaussian_Splatting_CVPR_2025_paper.pdf)
 23. [2025-CVPR] InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception [[paper]](https://arxiv.org/pdf/2411.19235) [[code]](https://github.com/lhj-git/InstanceGasuusian_code)
 24. [2025-arXiv] FLEG: Feed-Forward Language Embedded Gaussian Splatting from Any Views [[paper]](https://arxiv.org/pdf/2512.17541)   
-25. [2025-arXiv] Is clustering enough for LiDAR instance segmentation? Astate-of-the-art training-free baseline [[paper]](https://arxiv.org/pdf/2503.13203) [[code]](https://github.com/valeoai/Alpine/)  
-26. [2025-NeurIPS] L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery [[paper]](https://arxiv.org/pdf/2503.11245#page=12.51) [[code]](https://github.com/Shizw695/L2RSI)
-27. [2025-NeurIPS] GTR-Loc: Geospatial Text Regularization Assisted Outdoor LiDAR Localization [[paper]](https://openreview.net/pdf/1b19094321848599a1a21221af90d4423d1e1cac.pdf)   
-28. [2026-ICLR] Fixinggs: Enhancing 3D Gaussian Splatting Via Training-Free Score Distillation [[paper]](https://openreview.net/attachment?id=QIjmCQuXyx&name=pdf)  
-29. [2026-ICLR] Query-Aware Hub Prototype Learning For Few-Shot 3D Point Cloud Segmentation [[paper]](https://openreview.net/attachment?id=AZl4sTVDCC&name=pdf)  
+25. [2025-arXiv] Is clustering enough for LiDAR instance segmentation? Astate-of-the-art training-free baseline [[paper]](https://arxiv.org/pdf/2503.13203) [[code]](https://github.com/valeoai/Alpine/)
+26. [2025-arXiv] HTTM:Head-wise Temporal Token Merging for Faster VGGT [[paper]](https://arxiv.org/pdf/2511.21317)  
+27. [2025-NeurIPS] L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery [[paper]](https://arxiv.org/pdf/2503.11245#page=12.51) [[code]](https://github.com/Shizw695/L2RSI)
+28. [2025-NeurIPS] GTR-Loc: Geospatial Text Regularization Assisted Outdoor LiDAR Localization [[paper]](https://openreview.net/pdf/1b19094321848599a1a21221af90d4423d1e1cac.pdf)   
+29. [2026-ICLR] Fixinggs: Enhancing 3D Gaussian Splatting Via Training-Free Score Distillation [[paper]](https://openreview.net/attachment?id=QIjmCQuXyx&name=pdf)  
+30. [2026-ICLR] Query-Aware Hub Prototype Learning For Few-Shot 3D Point Cloud Segmentation [[paper]](https://openreview.net/attachment?id=AZl4sTVDCC&name=pdf)  
   
 ### Classification&&Test-time Adaptation
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
