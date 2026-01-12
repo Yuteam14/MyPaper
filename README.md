@@ -46,11 +46,10 @@
 29. [2025-arXiv] Open Vocabulary Monocular 3D Object Detection [[paper]](https://arxiv.org/pdf/2411.16833)  
 30. [2025-NeurIPS] Online Segment Any 3D Thing as Instance Tracking [[paper]](https://arxiv.org/pdf/2512.07599) [[code]](https://github.com/AutoLab-SAI-SJTU/AutoSeg3D)  
 31. [2025-NeurIPS] L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery [[paper]](https://arxiv.org/pdf/2503.11245#page=12.51) [[code]](https://github.com/Shizw695/L2RSI)
-32. [2025-NeurIPS] GTR-Loc: Geospatial Text Regularization Assisted Outdoor LiDAR Localization [[paper]](https://openreview.net/pdf/1b19094321848599a1a21221af90d4423d1e1cac.pdf)   
-33. [2026-ICLR] Fixinggs: Enhancing 3D Gaussian Splatting Via Training-Free Score Distillation [[paper]](https://openreview.net/attachment?id=QIjmCQuXyx&name=pdf)  
-34. [2026-ICLR] Query-Aware Hub Prototype Learning For Few-Shot 3D Point Cloud Segmentation [[paper]](https://openreview.net/attachment?id=AZl4sTVDCC&name=pdf)  
-35. [2026-arXiv] LabelAny3D: Label Any Object 3D in the Wild [[paper]](https://arxiv.org/pdf/2601.01676) [[code]](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D)  
-  
+32. [2025-NeurIPS] GTR-Loc: Geospatial Text Regularization Assisted Outdoor LiDAR Localization [[paper]](https://openreview.net/pdf/1b19094321848599a1a21221af90d4423d1e1cac.pdf)
+33. [2025-NeurIPS] LabelAny3D: Label Any Object 3D in the Wild [[paper]](https://arxiv.org/pdf/2601.01676) [[code]](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D)  
+34. [2026-ICLR] Fixinggs: Enhancing 3D Gaussian Splatting Via Training-Free Score Distillation [[paper]](https://openreview.net/attachment?id=QIjmCQuXyx&name=pdf)  
+35. [2026-ICLR] Query-Aware Hub Prototype Learning For Few-Shot 3D Point Cloud Segmentation [[paper]](https://openreview.net/attachment?id=AZl4sTVDCC&name=pdf)  
 ### Classification&&Test-time Adaptation
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
 2. [2025-ICCV] Purge-Gate: Backpropagation-Free Test-Time Adaptation For Point Clouds Classification Via Token [[paper]](https://arxiv.org/pdf/2509.09785v1)
