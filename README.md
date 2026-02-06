@@ -4,7 +4,7 @@
 1. [3D Point Cloud Processing](#3d-point-cloud-processing)
 2. [Unsupervised Cross-lingual Alignment](#language-correction)
 3. [Classification (Zero-/Few-shot)](#classification)
-4. [Base Model](#Base-model)
+4. [ther](#other)
 5. [Dataset Resources](#dataset-resources)
 
 ---
@@ -118,22 +118,21 @@
 6. [2025-arXiv] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model [[paper]](https://arxiv.org/pdf/2506.23822)  
 7. [2025-CVPR] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation [[paper]](https://arxiv.org/pdf/2503.23388)  
 8. [2025-ICLR] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP) [[note]](https://yuteam14.github.io/MyPaper/Note/%E6%96%87%E7%8C%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-3.pdf)
-9. [2025-arXiv] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model [[paper]](https://arxiv.org/pdf/2506.23822)  
+9. [2025-arXiv] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model [[paper]](https://arxiv.org/pdf/2506.23822)
+10. [2026-ICLR] Reorienting The Frozen Space: Training-Free Test-Time Adaptation By Geometric Transformation [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)  
 ---
-<a id="clip"></a>
-## Base Model
-5. [2025-arXiv] SGPMIL: Sparse Gaussian Process Multiple Instance Learning [[paper]](https://arxiv.org/pdf/2507.08711)   
-10. [2025-CVPR] ViLU: Learning Vision-Language Uncertainties for Failure Prediction [[paper]](https://arxiv.org/pdf/2507.07620?)[[code]](https://github.com/ykrmm/ViLU)  
-11. [2025-arXiv] Recent Advances in Optimal Transport for Machine Learning [[paper]](https://arxiv.org/pdf/2306.16156)  
-12. [2026-ICLR] A Novel Graph-Based Fuzzy Clustering For Deep Visual Representations [[paper]](https://openreview.net/attachment?id=AorEBT2QLl&name=pdf)  
-13. [2026-ICLR] Uncover Underlying Correspondence For Robust Multi-View Clustering [[paper]](https://openreview.net/attachment?id=a4S1nQay3b&name=pdf)  
-14. [2026-ICLR] Reorienting The Frozen Space: Training-Free Test-Time Adaptation By Geometric Transformation [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)  
-15. [2025-CVPR] MMRL:Multi-Modal Representation Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2503.08497)  
+<a id="other"></a>
+## Other Technologies
+1. [2025-arXiv] SGPMIL: Sparse Gaussian Process Multiple Instance Learning [[paper]](https://arxiv.org/pdf/2507.08711)   
+2. [2025-CVPR] ViLU: Learning Vision-Language Uncertainties for Failure Prediction [[paper]](https://arxiv.org/pdf/2507.07620?)[[code]](https://github.com/ykrmm/ViLU)  
+3. [2025-arXiv] Recent Advances in Optimal Transport for Machine Learning [[paper]](https://arxiv.org/pdf/2306.16156)  
+4. [2026-ICLR] A Novel Graph-Based Fuzzy Clustering For Deep Visual Representations [[paper]](https://openreview.net/attachment?id=AorEBT2QLl&name=pdf)  
+5. [2026-ICLR] Uncover Underlying Correspondence For Robust Multi-View Clustering [[paper]](https://openreview.net/attachment?id=a4S1nQay3b&name=pdf)  
+6. [2026-ICLR] Reorienting The Frozen Space: Training-Free Test-Time Adaptation By Geometric Transformation [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)  
+7. [2025-CVPR] MMRL:Multi-Modal Representation Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2503.08497)  
 ---
 
 <a id="dataset-resources"></a>
 ## Dataset Resources
-
-
 - **通用视觉**  
   - [COCO](https://cocodataset.org) (开放词汇分割基准)
