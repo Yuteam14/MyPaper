@@ -98,28 +98,29 @@
 <a id="classification"></a>
 ## Classification (Zero-/Few-shot)
 ### Few-shot
-1. [2026-ICLR] Muot-Clip: Enhancing Few-Shot Adaptation Of Clip Via Inter- And Intra-Modality Unbalanced Optimal Transport [[paper]](https://openreview.net/attachment?id=BEOq3YB5WM&name=pdf)  
-2. [2026-ICLR] Graph-Refined Representation Learning For Few-Shot Classification Via Clip Adaptation [[paper]](https://openreview.net/pdf?id=KQ9aK65BKm)   
-3. [2026-ICLR] Infer: Embedding Integration With Feature Refinement For Few-Shot Learning In Vlms [[paper]](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)   
-4. [2026-ICLR] Semobridge: Semantic Modality Bridge For Efficient Few-Shot Adaptation Of Clip [[paper]](https://openreview.net/attachment?id=8aT5yt8Vmt&name=pdf)   
-5. [2025-CVPR] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models [[paper]](https://arxiv.org/pdf/2501.11175)[[code]](https://github.com/ybendou/ProKeR)  
-6. [2025-AAAI] Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP [[paper]](https://arxiv.org/pdf/2412.11375)[[code]](https://github.com/MCPathology/NH2ST)  
-7. [2025-ICCV] Unknown Text Learning for CLIP-based Few-shot Open-Set Recognition [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_Unknown_Text_Learning_for_CLIP-based_Few-Shot_Open-set_Recognition_ICCV_2025_paper.pdf)  
-8. [2025-CVPR] Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages [[paper]](https://arxiv.org/pdf/2503.11609)[[code]](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)
-9. [2023-ICCV] Black Box Few-Shot Adaptation for Vision-Language models [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf#page=4.97)[[code]](https://github.com/saic-fi/LFA) [[note]](https://yuteam14.github.io/MyPaper/Note/LFA%E6%96%B9%E6%B3%95.pdf)
-10. [2025-AAAI] Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP [[paper]](https://arxiv.org/pdf/2412.11375)[[code]](https://github.com/MCPathology/NH2ST)  
+1. [2023-ICCV] Black Box Few-Shot Adaptation for Vision-Language models [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf#page=4.97)[[code]](https://github.com/saic-fi/LFA) [[note]](https://yuteam14.github.io/MyPaper/Note/LFA%E6%96%B9%E6%B3%95.pdf)  
+2. [2025-AAAI] Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP [[paper]](https://arxiv.org/pdf/2412.11375)[[code]](https://github.com/MCPathology/NH2ST)  
+3. [2025-CVPR] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models [[paper]](https://arxiv.org/pdf/2501.11175)[[code]](https://github.com/ybendou/ProKeR)  
+4. [2025-CVPR] Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages [[paper]](https://arxiv.org/pdf/2503.11609)[[code]](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)  
+5. [2025-ICCV] Unknown Text Learning for CLIP-based Few-shot Open-Set Recognition [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_Unknown_Text_Learning_for_CLIP-based_Few-Shot_Open-set_Recognition_ICCV_2025_paper.pdf)  
+6. [2026-ICLR] Muot-Clip: Enhancing Few-Shot Adaptation Of Clip Via Inter- And Intra-Modality Unbalanced Optimal Transport [[paper]](https://openreview.net/attachment?id=BEOq3YB5WM&name=pdf)  
+7. [2026-ICLR] Graph-Refined Representation Learning For Few-Shot Classification Via Clip Adaptation [[paper]](https://openreview.net/pdf?id=KQ9aK65BKm)   
+8. [2026-ICLR] Infer: Embedding Integration With Feature Refinement For Few-Shot Learning In Vlms [[paper]](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)   
+9. [2026-ICLR] Semobridge: Semantic Modality Bridge For Efficient Few-Shot Adaptation Of Clip [[paper]](https://openreview.net/attachment?id=8aT5yt8Vmt&name=pdf)
+
 ---
 ### Zero-shot
-1. [2025-arXiv] Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignmen [[paper]](https://arxiv.org/pdf/2508.15568)  
-2. [2024-NeurIPS] Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/03cdf8e212ba92a3f36bffe1391928bd-Paper-Conference.pdf)  
-3. [2025-CVPR] Compositional Caching for Training-free Open-vocabulary Attribute Detection [[paper]](https://arxiv.org/pdf/2503.19145)  
-4. [2025-ICCV] Think Twice: Test-Time Reasoning for Robust CLIP Zero-Shot Classification [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_Think_Twice_Test-Time_Reasoning_for_Robust_CLIP_Zero-Shot_Classification_ICCV_2025_paper.pdf)
-5. [2024-NeurIPS] Boosting Vision-Language Models with Transduction [[paper]](https://arxiv.org/pdf/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)
-6. [2025-arXiv] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model [[paper]](https://arxiv.org/pdf/2506.23822)  
+1. [2024-NeurIPS] Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/03cdf8e212ba92a3f36bffe1391928bd-Paper-Conference.pdf)  
+2. [2024-NeurIPS] Boosting Vision-Language Models with Transduction [[paper]](https://arxiv.org/pdf/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)
+3. [2025-arXiv] Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignmen [[paper]](https://arxiv.org/pdf/2508.15568)  
+4. [2025-arXiv] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model [[paper]](https://arxiv.org/pdf/2506.23822)  
+5. [2025-arXiv] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model [[paper]](https://arxiv.org/pdf/2506.23822)  
+6. [2025-CVPR] Compositional Caching for Training-free Open-vocabulary Attribute Detection [[paper]](https://arxiv.org/pdf/2503.19145)  
 7. [2025-CVPR] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation [[paper]](https://arxiv.org/pdf/2503.23388)  
-8. [2025-ICLR] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP) [[note]](https://yuteam14.github.io/MyPaper/Note/%E6%96%87%E7%8C%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-3.pdf)
-9. [2025-arXiv] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model [[paper]](https://arxiv.org/pdf/2506.23822)
-10. [2026-ICLR] Reorienting The Frozen Space: Training-Free Test-Time Adaptation By Geometric Transformation [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)  
+8. [2025-ICCV] Think Twice: Test-Time Reasoning for Robust CLIP Zero-Shot Classification [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_Think_Twice_Test-Time_Reasoning_for_Robust_CLIP_Zero-Shot_Classification_ICCV_2025_paper.pdf)
+9. [2025-ICLR] Efficient And Context-Aware Label Propagation For Zero-/Few-Shot Training-Free Adaptation Of Vision-Language Model [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP) [[note]](https://yuteam14.github.io/MyPaper/Note/%E6%96%87%E7%8C%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-3.pdf)
+10. [2026-ICLR] Reorienting The Frozen Space: Training-Free Test-Time Adaptation By Geometric Transformation [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
+
 ---
 <a id="other"></a>
 ## Other Technologies
