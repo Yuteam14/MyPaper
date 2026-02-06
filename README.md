@@ -98,6 +98,7 @@
 ---
 
 <a id="classification"></a>
+## Classification (Zero-/Few-shot)
 ### Few-shot
 1. [2026-ICLR] Muot-Clip: Enhancing Few-Shot Adaptation Of Clip Via Inter- And Intra-Modality Unbalanced Optimal Transport [[paper]](https://openreview.net/attachment?id=BEOq3YB5WM&name=pdf)  
 2. [2026-ICLR] Graph-Refined Representation Learning For Few-Shot Classification Via Clip Adaptation [[paper]](https://openreview.net/pdf?id=KQ9aK65BKm)   
