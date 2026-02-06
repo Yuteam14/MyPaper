@@ -3,10 +3,9 @@
 ## Content
 1. [3D Point Cloud Processing](#3d-point-cloud-processing)
 2. [Unsupervised Cross-lingual Alignment](#language-correction)
-3. [Few-shot](#few-shot)
-4. [Zero-shot](#zero-shot)
-5. [Base Model](#Base-model)
-6. [Dataset Resources](#dataset-resources)
+3. [Classification (Zero-/Few-shot)](#classification)
+4. [Base Model](#Base-model)
+5. [Dataset Resources](#dataset-resources)
 
 ---
 <a id="medical-image-semantic-segmentation"></a>
@@ -98,8 +97,8 @@
 
 ---
 
-<a id="few-shot"></a>
-## Few-shot
+<a id="classification"></a>
+### Few-shot
 1. [2026-ICLR] Muot-Clip: Enhancing Few-Shot Adaptation Of Clip Via Inter- And Intra-Modality Unbalanced Optimal Transport [[paper]](https://openreview.net/attachment?id=BEOq3YB5WM&name=pdf)  
 2. [2026-ICLR] Graph-Refined Representation Learning For Few-Shot Classification Via Clip Adaptation [[paper]](https://openreview.net/pdf?id=KQ9aK65BKm)   
 3. [2026-ICLR] Infer: Embedding Integration With Feature Refinement For Few-Shot Learning In Vlms [[paper]](https://openreview.net/attachment?id=sD18KHrPbB&name=pdf)   
@@ -109,8 +108,7 @@
 7. [2025-ICCV] Unknown Text Learning for CLIP-based Few-shot Open-Set Recognition [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_Unknown_Text_Learning_for_CLIP-based_Few-Shot_Open-set_Recognition_ICCV_2025_paper.pdf)  
 8. [2025-CVPR] Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages [[paper]](https://arxiv.org/pdf/2503.11609)[[code]](https://github.com/FarinaMatteo/rethinking_fewshot_vlms)  
 ---
-<a id="zero-shot"></a>
-## Zero-shot
+### Zero-shot
 1. [2025-arXiv] Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignmen [[paper]](https://arxiv.org/pdf/2508.15568)  
 2. [2024-NeurIPS] Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/03cdf8e212ba92a3f36bffe1391928bd-Paper-Conference.pdf)  
 3. [2025-CVPR] OnlineAnySeg: Online Zero-Shot 3D Segmentation by Visual Foundation Model Guided 2D Mask Merging [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_OnlineAnySeg_Online_Zero-Shot_3D_Segmentation_by_Visual_Foundation_Model_Guided_CVPR_2025_paper.pdf)  
