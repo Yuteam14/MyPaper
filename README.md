@@ -4,7 +4,7 @@
 1. [3D Point Cloud Processing](#3d-point-cloud-processing)
 2. [Unsupervised Cross-lingual Alignment](#language-correction)
 3. [Classification (Zero-/Few-shot)](#classification)
-4. [other](#other)
+4. [Other](#other)
 5. [Dataset Resources](#dataset-resources)
 
 ---
