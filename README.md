@@ -4,8 +4,9 @@
 1. [3D Point Cloud Processing](#3d-point-cloud-processing)
 2. [Unsupervised Cross-lingual Alignment](#language-correction)
 3. [Classification (Zero-/Few-shot)](#classification)
-4. [Other](#other)
-5. [Dataset Resources](#dataset-resources)
+4. [Language-assisted Image Clustering](#cluster)
+5. [Other](#other)
+6. [Dataset Resources](#dataset-resources)
 
 ---
 <a id="medical-image-semantic-segmentation"></a>
