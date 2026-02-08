@@ -125,7 +125,9 @@
 
 <a id="cluster"></a>
 ## Language-assisted Image Clustering 
-1. [[2023-AAAI]](https://arxiv.org/pdf/2306.16156)  Semantic-Enhanced Image Clustering
+1. [[2023-AAAI]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Semantic-enhanced+image+clustering.+&btnG=) Semantic-Enhanced Image Clustering
+2. [[2024-ICML]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Image+Clustering+with+External+Guidance&btnG=) Image Clustering with External Guidance
+3. [[2025-ICCV]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Onthe+Provable+Importance+of+Gradients+for+Autonomous+Language-Assisted+Image+Clustering&btnG=) Onthe Provable Importance of Gradients for Autonomous Language-Assisted Image Clustering
 
 ---
 
