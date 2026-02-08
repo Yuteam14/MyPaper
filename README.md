@@ -120,8 +120,16 @@
 7. [2025-ICCV] Think Twice: Test-Time Reasoning for Robust CLIP Zero-Shot Classification [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_Think_Twice_Test-Time_Reasoning_for_Robust_CLIP_Zero-Shot_Classification_ICCV_2025_paper.pdf)
 8. [2025-ICLR] Efficient And Context-Aware Label Propagation For Zero-/Few-Shot Training-Free Adaptation Of Vision-Language Model [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP) [[note]](https://yuteam14.github.io/MyPaper/Note/%E6%96%87%E7%8C%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-3.pdf)
 9. [2026-ICLR] Reorienting The Frozen Space: Training-Free Test-Time Adaptation By Geometric Transformation [[paper]](https://openreview.net/attachment?id=nErnNhJx2o&name=pdf)
+---
+
+<a id="cluster"></a>
+## Language-assisted Image Clustering 
+1. [[2023-AAAI]](https://arxiv.org/pdf/2306.16156)  Semantic-Enhanced Image Clustering
 
 ---
+
+
+
 <a id="other"></a>
 ## Other Technologies
 1. [2025-arXiv] Recent Advances in Optimal Transport for Machine Learning [[paper]](https://arxiv.org/pdf/2306.16156)  
