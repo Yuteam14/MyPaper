@@ -58,7 +58,9 @@
 2. [2025-ICCV] Purge-Gate: Backpropagation-Free Test-Time Adaptation For Point Clouds Classification Via Token [[paper]](https://arxiv.org/pdf/2509.09785v1)
 3. [2025-ICML] SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds [[paper]](https://arxiv.org/pdf/2505.19546) [[code]](https://github.com/AliBahri94/SMART-PC)  
 4. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2503.12150) [[code]](https://github.com/auniquesun/Point-Cache)  
-5. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1863) [[code]](https://github.com/MosyMosy/Purge-Gate)  
+5. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1863) [[code]](https://github.com/MosyMosy/Purge-Gate)
+6. [[2026-AAAI]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Adapt-As-You-Walk+Through+the+Clouds%3A+Training-Free+Online+Test-Time+Adaptation+of+3D+Vision-Language+Foundation+Models&btnG=) Adapt-As-You-Walk Through the Clouds: Training-Free Online Test-Time Adaptation of 3D Vision-Language Foundation Models
+
 ### Information Retrieval
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)  
 ### Localization
