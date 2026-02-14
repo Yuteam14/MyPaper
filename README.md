@@ -82,9 +82,11 @@
 
 ### Cross-modal Alignment
 1. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Harnessing+Frozen+Unimodal+Encoders+for+Flexible+Multimodal+Alignment&btnG=) Harnessing Frozen Unimodal Encoders for Flexible Multimodal Alignment
-2. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=With+Limited+Data+for+Multimodal+Alignment%2C+Let+the+STRUCTUREGuide+You&btnG=) With Limited Data for Multimodal Alignment, Let the STRUCTUREGuide You
-3. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Do+Vision+and+Language+Encoders+Represent+the+World+Similarly%3F&btnG=) Do Vision and Language Encoders Represent the World Similarly?
-4. [[2025-ICML]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Towards+an+Explainable+Comparison+and+Alignment+of+Feature+Embeddings&btnG=) Towards an Explainable Comparison and Alignment of Feature Embeddings
+2. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=It%E2%80%99s+a+%28Blind%29+Match%21+Towards+Vision-Language+Correspondence+without+Parallel+Data&btnG=) It’s a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data
+3. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Assessing+and+Learning+Alignment+of+Unimodal+Vision+and+Language+Models&btnG=) Assessing and Learning Alignment of Unimodal Vision and Language Models
+4. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=With+Limited+Data+for+Multimodal+Alignment%2C+Let+the+STRUCTUREGuide+You&btnG=) With Limited Data for Multimodal Alignment, Let the STRUCTUREGuide You
+5. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Do+Vision+and+Language+Encoders+Represent+the+World+Similarly%3F&btnG=) Do Vision and Language Encoders Represent the World Similarly?
+6. [[2025-ICML]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Towards+an+Explainable+Comparison+and+Alignment+of+Feature+Embeddings&btnG=) Towards an Explainable Comparison and Alignment of Feature Embeddings
 
 
 ### Unsupervised Cross-lingual Alignment
