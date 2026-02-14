@@ -2,7 +2,7 @@
 
 ## Content
 1. [3D Point Cloud Processing](#3d-point-cloud-processing)
-2. [Unsupervised Cross-lingual Alignment](#language-correction)
+2. [Cross-modal Alignment](#language-correction)
 3. [Classification (Zero-/Few-shot)](#classification)
 4. [Language-assisted Image Clustering](#cluster)
 5. [Other](#other)
@@ -78,7 +78,12 @@
 3. [2025-NeurIPS] SCENEFORGE: Enhancing 3D-text alignment with Structured Scene Compositions [[paper]](https://arxiv.org/pdf/2509.15693) [[code]](https://github.com/mortorit/sceneforge-neurips2025)  
 --- 
 <a id="language-correction"></a>
-## Unsupervised Cross-lingual Alignment
+
+
+### Cross-modal Alignment
+
+
+### Unsupervised Cross-lingual Alignment
 1. [2018-EMNLP] Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion [[paper]](https://arxiv.org/pdf/1804.07745)  
 2. [2018-arXiv] Unsupervised Alignment of Embeddings with Wasserstein Procrustes [[paper]](https://arxiv.org/pdf/1805.11222)  
 3. [2018-TACL] Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach [[paper]](https://arxiv.org/pdf/1808.08773)  
@@ -99,6 +104,8 @@
 18. [2026-ICLR] Flow-Based Alignment Of Uni-Modal Vision And Text Encoders For Few-Shot Image Classification [[paper]](https://openreview.net/attachment?id=educGk5ykl&name=pdf)  
 19. [2026-ICLR] Transport Clustering: Solving Low-Rank Optimal Transport Via Clustering [[paper]](https://openreview.net/attachment?id=YKTJJCNXF4&name=pdf)  
 ---
+
+
 <a id="classification"></a>
 ## Classification (Zero-/Few-shot)
 ### Few-shot
