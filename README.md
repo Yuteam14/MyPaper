@@ -110,7 +110,12 @@
 16. [2025-ICML] Towards an Explainable Comparison and Alignment of Feature Embeddings [[paper]](https://arxiv.org/pdf/2506.06231) [[code]](https://github.com/mjalali/embedding-comparison)  
 17. [2025-NeurIPS] VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set [[paper]](https://arxiv.org/pdf/2510.21323) [[code]](https://github.com/ssfgunner/VL-SAE)  
 18. [2026-ICLR] Flow-Based Alignment Of Uni-Modal Vision And Text Encoders For Few-Shot Image Classification [[paper]](https://openreview.net/attachment?id=educGk5ykl&name=pdf)  
-19. [2026-ICLR] Transport Clustering: Solving Low-Rank Optimal Transport Via Clustering [[paper]](https://openreview.net/attachment?id=YKTJJCNXF4&name=pdf)  
+19. [2026-ICLR] Transport Clustering: Solving Low-Rank Optimal Transport Via Clustering [[paper]](https://openreview.net/attachment?id=YKTJJCNXF4&name=pdf)
+
+### Flow Matching
+1. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Path-Decoupled+Hyperbolic+Flow+Matching+for+Few-Shot+Adaptation&btnG=) Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation
+2. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Exploring+Cross-Modal+Flows+for+Few-Shot+Learning&btnG=) Exploring Cross-Modal Flows for Few-Shot Learning
+
 ---
 
 
