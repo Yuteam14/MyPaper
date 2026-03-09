@@ -84,7 +84,8 @@
 6. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Ref-GS%3A+Directional+Factorization+for+2D+Gaussian+Splatting&btnG=) Ref-GS: Directional Factorization for 2D Gaussian Splatting
 7. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Sparse2DGS%3A+Geometry-Prioritized+Gaussian+Splatting+for+Surface+Reconstruction+from+Sparse+Views&btnG=) Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views
 8. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Any3DIS%3A+Class-Agnostic+3D+Instance+Segmentation+by+2D+Mask+Tracking&btnG=) Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking
-9. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GaussianVision%3A+Vision-Language+Alignment+from+Compressed+Image+Representations+using+2D+Gaussian+Splatting&btnG=) GaussianVision: Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting
+9. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Sparse+Point+Cloud+Patches+Rendering+via+Splitting+2D+Gaussians&btnG=) Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians
+10. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GaussianVision%3A+Vision-Language+Alignment+from+Compressed+Image+Representations+using+2D+Gaussian+Splatting&btnG=) GaussianVision: Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting
 --- 
 <a id="language-correction"></a>
 
