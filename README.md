@@ -60,7 +60,6 @@
 4. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2503.12150) [[code]](https://github.com/auniquesun/Point-Cache)  
 5. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1863) [[code]](https://github.com/MosyMosy/Purge-Gate)
 6. [[2026-AAAI]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Adapt-As-You-Walk+Through+the+Clouds%3A+Training-Free+Online+Test-Time+Adaptation+of+3D+Vision-Language+Foundation+Models&btnG=) Adapt-As-You-Walk Through the Clouds: Training-Free Online Test-Time Adaptation of 3D Vision-Language Foundation Models
-
 ### Information Retrieval
 1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)  
 ### Localization
@@ -75,7 +74,17 @@
 ### 3D Alignment
 1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
 2. [2025-arXiv] Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding [[paper]](https://arxiv.org/pdf/2506.09534)  
-3. [2025-NeurIPS] SCENEFORGE: Enhancing 3D-text alignment with Structured Scene Compositions [[paper]](https://arxiv.org/pdf/2509.15693) [[code]](https://github.com/mortorit/sceneforge-neurips2025)  
+3. [2025-NeurIPS] SCENEFORGE: Enhancing 3D-text alignment with Structured Scene Compositions [[paper]](https://arxiv.org/pdf/2509.15693) [[code]](https://github.com/mortorit/sceneforge-neurips2025)
+### 2D Gaussian
+1. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GS-2DGS%3A+Geometrically+Supervised+2DGS+for+Reflective+Object+Reconstruction&btnG=) GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction
+2. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GaPT-DAR%3A+Category-level+Garments+Pose+Tracking+via+Integrated+2D+Deformation+and+3D+Reconstruction&btnG=) GaPT-DAR: Category-level Garments Pose Tracking via Integrated 2D Deformation and 3D Reconstruction
+3. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=HybridGS%3A+Decoupling+Transients+and+Statics+with+2D+and+3D+Gaussian+Splatting&btnG=) HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting
+4. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=IRGS%3A+Inter-Reflective+Gaussian+Splatting+with+2D+Gaussian+Ray+Tracing&btnG=) IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing
+5. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=RoboSpatial%3A+Teaching+Spatial+Understanding+to+2D+and+3D+Vision-Language+Models+for+Robotics&btnG=) RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics
+6. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Ref-GS%3A+Directional+Factorization+for+2D+Gaussian+Splatting&btnG=) Ref-GS: Directional Factorization for 2D Gaussian Splatting
+7. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Sparse2DGS%3A+Geometry-Prioritized+Gaussian+Splatting+for+Surface+Reconstruction+from+Sparse+Views&btnG=) Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views
+8. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Any3DIS%3A+Class-Agnostic+3D+Instance+Segmentation+by+2D+Mask+Tracking&btnG=) Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking
+9. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GaussianVision%3A+Vision-Language+Alignment+from+Compressed+Image+Representations+using+2D+Gaussian+Splatting&btnG=) GaussianVision: Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting
 --- 
 <a id="language-correction"></a>
 
