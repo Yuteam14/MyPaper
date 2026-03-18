@@ -12,6 +12,11 @@
 <a id="medical-image-semantic-segmentation"></a>
 ## 3D Point Cloud Processing
 
+### Feedforward 3D Perception
+1. [2025-CVPR] VGGT: Visual Geometry Grounded Transformer [[paper]](https://arxiv.org/pdf/2503.11651) [[code]](https://github.com/facebookresearch/vggt)
+2. [[2026-ICLR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=YoNoSplat%3A+You+Only+Need+One+Model+for+Feedforward+3D+Gaussian+Splatting&btnG=)YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting
+
+
 ### OOD Detection
 1. [2025-ICCV] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation [[paper]](https://arxiv.org/pdf/2506.22375)  
 ### Segmentation&&Recognition
