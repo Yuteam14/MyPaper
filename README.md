@@ -167,6 +167,8 @@
 3. [[2025-ICCV]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Onthe+Provable+Importance+of+Gradients+for+Autonomous+Language-Assisted+Image+Clustering&btnG=) On the Provable Importance of Gradients for Autonomous Language-Assisted Image Clustering
 4. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Conditional+Representation+Learning+for+Customized+Tasks&btnG=) Conditional Representation Learning for Customized Tasks
 5. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Language-Assisted+Image+Clustering+Guided+by+Discriminative+Relational+Signals+and+Adaptive+Semantic+Centers&btnG=) Language-Assisted Image Clustering Guided by Discriminative Relational Signals and Adaptive Semantic Centers
+6. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Language-Assisted+Image+Clustering+Guided+by+Discriminative+Relational+Signals+and+Adaptive+Semantic+Centers&btnG=) Refine and Purify: Orthogonal Basis Optimization with Null-Space Denoising for
+Conditional Representation Learning
 
 ---
 
