@@ -58,6 +58,12 @@
 36. [2026-ICLR] FixingGS: Enhancing 3D Gaussian Splatting via Training-Free Score Distillation [[paper]](https://openreview.net/attachment?id=QIjmCQuXyx&name=pdf)  
 37. [2026-ICLR] Query-Aware Hub Prototype Learning for Few-Shot 3D Point Cloud Segmentation [[paper]](https://openreview.net/attachment?id=AZl4sTVDCC&name=pdf)
 
+### Open-Vocabulary 3D Object Detection
+1. [[2025-ICCV]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=OpenM3D%3A+Open+Vocabulary+Multi-view+Indoor+3D+Object+Detection+without+Human+Annotations&btnG=) OpenM3D: Open Vocabulary Multi-view Indoor 3D Object Detection without Human Annotations
+2. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Zoo3D%3A+Zero-Shot+3D+Object+Detection+at+Scene+Level&btnG=) Zoo3D: Zero-Shot 3D Object Detection at Scene Level
+3. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&cites=14149119459510904184&scipsc=&q=Group3D%3A+MLLM-Driven+Semantic+Grouping+for+Open-Vocabulary+3D+Object+Detection&btnG=) Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection
+
+
 ### Classification&&Test-time Adaptation
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
 2. [2025-ICCV] Purge-Gate: Backpropagation-Free Test-Time Adaptation For Point Clouds Classification Via Token [[paper]](https://arxiv.org/pdf/2509.09785v1)
