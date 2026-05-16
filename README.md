@@ -64,7 +64,9 @@
 3. [[2025-ICCV]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=OpenM3D%3A+Open+Vocabulary+Multi-view+Indoor+3D+Object+Detection+without+Human+Annotations&btnG=) OpenM3D: Open Vocabulary Multi-view Indoor 3D Object Detection without Human Annotations
 4. [[2025-NeurIPS]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LabelAny3D%3A+Label+Any+Object+3D+in+the+Wild&btnG=) LabelAny3D: Label Any Object 3D in the Wild
 5. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Zoo3D%3A+Zero-Shot+3D+Object+Detection+at+Scene+Level&btnG=) Zoo3D: Zero-Shot 3D Object Detection at Scene Level
-6. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&cites=14149119459510904184&scipsc=&q=Group3D%3A+MLLM-Driven+Semantic+Grouping+for+Open-Vocabulary+3D+Object+Detection&btnG=) Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection
+6. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Zoo3D%3A+Zero-Shot+3D+Object+Detection+at+Scene+Level&btnG=) VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection
+7. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Zoo3D%3A+Zero-Shot+3D+Object+Detection+at+Scene+Level&btnG=) CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection
+8. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&cites=14149119459510904184&scipsc=&q=Group3D%3A+MLLM-Driven+Semantic+Grouping+for+Open-Vocabulary+3D+Object+Detection&btnG=) Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection
 
 
 ### Classification&&Test-time Adaptation
