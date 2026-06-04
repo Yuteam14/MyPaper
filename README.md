@@ -78,8 +78,9 @@
 1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
 2. [2025-arXiv] Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding [[paper]](https://arxiv.org/pdf/2506.09534)  
 3. [2025-NeurIPS] SCENEFORGE: Enhancing 3D-text alignment with Structured Scene Compositions [[paper]](https://arxiv.org/pdf/2509.15693) [[code]](https://github.com/mortorit/sceneforge-neurips2025)
-4. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cross-Instance+Gaussian+Splatting+Registration+via+Geometry-Aware+Feature-Guided+Alignment&btnG=) Cross-Instance Gaussian Splatting Registration via
-Geometry-Aware Feature-Guided Alignment
+4. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cross-Instance+Gaussian+Splatting+Registration+via+Geometry-Aware+Feature-Guided+Alignment&btnG=) Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment
+5. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PatchAlign3D%3A+Local+Feature+Alignment+for+Dense+3D+Shape+Understanding&btnG=) PatchAlign3D: Local Feature Alignment for Dense 3D Shape Understanding
+
 
 ### Classification&&Test-time Adaptation
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
