@@ -69,8 +69,9 @@
 8. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&cites=14149119459510904184&scipsc=&q=Group3D%3A+MLLM-Driven+Semantic+Grouping+for+Open-Vocabulary+3D+Object+Detection&btnG=) Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection
 
 ### 3D Pose Estimation
-1. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Open-vocabulary+point-cloud+object+detection+without+3d+annotation.&btnG=) ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors
-2. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Open-vocabulary+point-cloud+object+detection+without+3d+annotation.&btnG=) POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
+1. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=ConceptPose%3A+Training-Free+Zero-Shot+Object+Pose+Estimation+using+Concept+Vectors&btnG=) ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors
+2. [[2025-ICCV]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=RegGS%3A+Unposed+Sparse+Views+Gaussian+Splatting+with+3DGS+Registration&btnG=) RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration
+3. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=POPE%3A+6-DoF+Promptable+Pose+Estimation+of+Any+Object%2C+in+Any+Scene%2C+with+One+Reference&btnG=) POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
 
 
 ### Classification&&Test-time Adaptation
