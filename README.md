@@ -74,6 +74,12 @@
 3. [[2025-ICCV]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=RegGS%3A+Unposed+Sparse+Views+Gaussian+Splatting+with+3DGS+Registration&btnG=) RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration
 4. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=POPE%3A+6-DoF+Promptable+Pose+Estimation+of+Any+Object%2C+in+Any+Scene%2C+with+One+Reference&btnG=) POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
 
+### 3D Alignment
+1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
+2. [2025-arXiv] Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding [[paper]](https://arxiv.org/pdf/2506.09534)  
+3. [2025-NeurIPS] SCENEFORGE: Enhancing 3D-text alignment with Structured Scene Compositions [[paper]](https://arxiv.org/pdf/2509.15693) [[code]](https://github.com/mortorit/sceneforge-neurips2025)
+4. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cross-Instance+Gaussian+Splatting+Registration+via+Geometry-Aware+Feature-Guided+Alignment&btnG=) Cross-Instance Gaussian Splatting Registration via
+Geometry-Aware Feature-Guided Alignment
 
 ### Classification&&Test-time Adaptation
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
@@ -82,27 +88,6 @@
 4. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2503.12150) [[code]](https://github.com/auniquesun/Point-Cache)  
 5. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1863) [[code]](https://github.com/MosyMosy/Purge-Gate)
 6. [[2026-AAAI]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Adapt-As-You-Walk+Through+the+Clouds%3A+Training-Free+Online+Test-Time+Adaptation+of+3D+Vision-Language+Foundation+Models&btnG=) Adapt-As-You-Walk Through the Clouds: Training-Free Online Test-Time Adaptation of 3D Vision-Language Foundation Models
-
-### Information Retrieval
-1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)
-2. 
-### Localization
-1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[code]](https://github.com/Afoolbird/PMSH)  
-
-### 3D Reconstruction
-1. [2024-ICRA] LidarDM: Generative LiDAR Simulation in a Generated World [[paper]](https://arxiv.org/pdf/2404.02903) [[code]](https://arxiv.org/pdf/2404.02903)  
-2. [2025-arXiv] MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[paper]](https://map-anything.github.io/assets/MapAnything.pdf) [[code]](https://github.com/facebookresearch/map-anything)  
-3. [2025-arXiv] Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey [[paper]](https://arxiv.org/pdf/2507.14501)  
-4. [2025-arXiv] IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction [[paper]](https://arxiv.org/pdf/2510.22706)  
-5. [2025-arXiv] Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS [[paper]](https://arxiv.org/pdf/2510.22706) [[code]](https://github.com/DrunkenPoet/GHAP)
-6. [2025-arXiv] Ref-SAM3D: Bridging SAM3D with Text for Reference 3D Reconstruction [[paper]](https://arxiv.org/pdf/2511.19426)  
-
-### 3D Alignment
-1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
-2. [2025-arXiv] Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding [[paper]](https://arxiv.org/pdf/2506.09534)  
-3. [2025-NeurIPS] SCENEFORGE: Enhancing 3D-text alignment with Structured Scene Compositions [[paper]](https://arxiv.org/pdf/2509.15693) [[code]](https://github.com/mortorit/sceneforge-neurips2025)
-4. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cross-Instance+Gaussian+Splatting+Registration+via+Geometry-Aware+Feature-Guided+Alignment&btnG=) Cross-Instance Gaussian Splatting Registration via
-Geometry-Aware Feature-Guided Alignment
 
 ### 2D Gaussian
 1. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GS-2DGS%3A+Geometrically+Supervised+2DGS+for+Reflective+Object+Reconstruction&btnG=) GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction
@@ -115,6 +100,20 @@ Geometry-Aware Feature-Guided Alignment
 8. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Any3DIS%3A+Class-Agnostic+3D+Instance+Segmentation+by+2D+Mask+Tracking&btnG=) Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking
 9. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Sparse+Point+Cloud+Patches+Rendering+via+Splitting+2D+Gaussians&btnG=) Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians
 10. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GaussianVision%3A+Vision-Language+Alignment+from+Compressed+Image+Representations+using+2D+Gaussian+Splatting&btnG=) GaussianVision: Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting
+
+### 3D Reconstruction
+1. [2024-ICRA] LidarDM: Generative LiDAR Simulation in a Generated World [[paper]](https://arxiv.org/pdf/2404.02903) [[code]](https://arxiv.org/pdf/2404.02903)  
+2. [2025-arXiv] MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[paper]](https://map-anything.github.io/assets/MapAnything.pdf) [[code]](https://github.com/facebookresearch/map-anything)  
+3. [2025-arXiv] Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey [[paper]](https://arxiv.org/pdf/2507.14501)  
+4. [2025-arXiv] IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction [[paper]](https://arxiv.org/pdf/2510.22706)  
+5. [2025-arXiv] Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS [[paper]](https://arxiv.org/pdf/2510.22706) [[code]](https://github.com/DrunkenPoet/GHAP)
+6. [2025-arXiv] Ref-SAM3D: Bridging SAM3D with Text for Reference 3D Reconstruction [[paper]](https://arxiv.org/pdf/2511.19426)  
+
+### Information Retrieval
+1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)
+   
+### Localization
+1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[code]](https://github.com/Afoolbird/PMSH)  
 --- 
 <a id="language-correction"></a>
 
