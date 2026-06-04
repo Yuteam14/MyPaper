@@ -82,10 +82,13 @@
 4. [2025-CVPR] Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis [[paper]](https://arxiv.org/pdf/2503.12150) [[code]](https://github.com/auniquesun/Point-Cache)  
 5. [2025-CVPR] Purge-Gate: Efficient Backpropagation-Free Test-Time Adaptation for Point Clouds via Token Purging [[paper]](https://iccv.thecvf.com/virtual/2025/poster/1863) [[code]](https://github.com/MosyMosy/Purge-Gate)
 6. [[2026-AAAI]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Adapt-As-You-Walk+Through+the+Clouds%3A+Training-Free+Online+Test-Time+Adaptation+of+3D+Vision-Language+Foundation+Models&btnG=) Adapt-As-You-Walk Through the Clouds: Training-Free Online Test-Time Adaptation of 3D Vision-Language Foundation Models
+
 ### Information Retrieval
-1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)  
+1. [2025-ICCV] Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval [[paper]](https://arxiv.org/pdf/2507.21489) [[code]](https://github.com/wangzhichuan123/DAC)
+2. 
 ### Localization
 1. [2025-ICCV] Partially Matching Submap Helps: Uncertainty Modeling and Propagation for Text to Point Cloud Localization [[code]](https://github.com/Afoolbird/PMSH)  
+
 ### 3D Reconstruction
 1. [2024-ICRA] LidarDM: Generative LiDAR Simulation in a Generated World [[paper]](https://arxiv.org/pdf/2404.02903) [[code]](https://arxiv.org/pdf/2404.02903)  
 2. [2025-arXiv] MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[paper]](https://map-anything.github.io/assets/MapAnything.pdf) [[code]](https://github.com/facebookresearch/map-anything)  
@@ -93,10 +96,14 @@
 4. [2025-arXiv] IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction [[paper]](https://arxiv.org/pdf/2510.22706)  
 5. [2025-arXiv] Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS [[paper]](https://arxiv.org/pdf/2510.22706) [[code]](https://github.com/DrunkenPoet/GHAP)
 6. [2025-arXiv] Ref-SAM3D: Bridging SAM3D with Text for Reference 3D Reconstruction [[paper]](https://arxiv.org/pdf/2511.19426)  
+
 ### 3D Alignment
 1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
 2. [2025-arXiv] Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding [[paper]](https://arxiv.org/pdf/2506.09534)  
 3. [2025-NeurIPS] SCENEFORGE: Enhancing 3D-text alignment with Structured Scene Compositions [[paper]](https://arxiv.org/pdf/2509.15693) [[code]](https://github.com/mortorit/sceneforge-neurips2025)
+4. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cross-Instance+Gaussian+Splatting+Registration+via+Geometry-Aware+Feature-Guided+Alignment&btnG=) Cross-Instance Gaussian Splatting Registration via
+Geometry-Aware Feature-Guided Alignment
+
 ### 2D Gaussian
 1. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GS-2DGS%3A+Geometrically+Supervised+2DGS+for+Reflective+Object+Reconstruction&btnG=) GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction
 2. [[2025-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GaPT-DAR%3A+Category-level+Garments+Pose+Tracking+via+Integrated+2D+Deformation+and+3D+Reconstruction&btnG=) GaPT-DAR: Category-level Garments Pose Tracking via Integrated 2D Deformation and 3D Reconstruction
