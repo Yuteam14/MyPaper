@@ -68,6 +68,10 @@
 7. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Zoo3D%3A+Zero-Shot+3D+Object+Detection+at+Scene+Level&btnG=) CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection
 8. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&cites=14149119459510904184&scipsc=&q=Group3D%3A+MLLM-Driven+Semantic+Grouping+for+Open-Vocabulary+3D+Object+Detection&btnG=) Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection
 
+### 3D Pose Estimation
+1. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Open-vocabulary+point-cloud+object+detection+without+3d+annotation.&btnG=) ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors
+2. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Open-vocabulary+point-cloud+object+detection+without+3d+annotation.&btnG=) POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
+
 
 ### Classification&&Test-time Adaptation
 1. [2025-ICCV] Interpretable point cloud classification using multiple instance learning [[paper]](https://openreview.net/pdf?id=T7ZVzuObcj)  
