@@ -70,12 +70,14 @@
 
 ### 3D Pose Estimation
 1. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=ConceptPose%3A+Training-Free+Zero-Shot+Object+Pose+Estimation+using+Concept+Vectors&btnG=) ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors
-2. [[2026-CVPR]](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiao_Universal_3D_Shape_Matching_via_Coarse-to-Fine_Language_Guidance_CVPR_2026_paper.pdf) Universal 3D Shape Matching via Coarse-to-Fine Language Guidance
-3. [[2026-CVPR]](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiao_Universal_3D_Shape_Matching_via_Coarse-to-Fine_Language_Guidance_CVPR_2026_paper.pdf) LaS-Comp: Zero-shot 3D Completion with Latent–Spatial Consistency
-4. [[2026-CVPR]](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiao_Universal_3D_Shape_Matching_via_Coarse-to-Fine_Language_Guidance_CVPR_2026_paper.pdf) LaS-Comp: Zero-shot 3D Completion with Latent–Spatial Consistency
-5. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=ComPose%3A+A+Unified+Completion-Pose+Framework+for+Robust+Category-Level+Object+Pose+Estimation&btnG=) ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation
-6. [[2025-ICCV]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=RegGS%3A+Unposed+Sparse+Views+Gaussian+Splatting+with+3DGS+Registration&btnG=) RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration
-7. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=POPE%3A+6-DoF+Promptable+Pose+Estimation+of+Any+Object%2C+in+Any+Scene%2C+with+One+Reference&btnG=) POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
+2. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Universal+3D+Shape+Matching+via+Coarse-to-Fine+Language+Guidance&btnG=) Universal 3D Shape Matching via Coarse-to-Fine Language Guidance
+3. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LaS-Comp%3A+Zero-shot+3D+Completion+with+Latent%E2%80%93Spatial+Consistency&btnG=) LaS-Comp: Zero-shot 3D Completion with Latent–Spatial Consistency
+4. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Best+Segmentation+Buddies+for+Image-Shape+Correspondence&btnG=) Best Segmentation Buddies for Image-Shape Correspondence
+5. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=UniCorrn%3A+Unified+Correspondence+Transformer+Across+2D+and+3D&btnG=) UniCorrn: Unified Correspondence Transformer Across 2D and 3D
+6. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=KV-Tracker%3A+Real-Time+Pose+Tracking+with+Transformers&btnG=) KV-Tracker: Real-Time Pose Tracking with Transformers
+7. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=ComPose%3A+A+Unified+Completion-Pose+Framework+for+Robust+Category-Level+Object+Pose+Estimation&btnG=) ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation
+8. [[2025-ICCV]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=RegGS%3A+Unposed+Sparse+Views+Gaussian+Splatting+with+3DGS+Registration&btnG=) RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration
+9. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=POPE%3A+6-DoF+Promptable+Pose+Estimation+of+Any+Object%2C+in+Any+Scene%2C+with+One+Reference&btnG=) POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
 
 ### 3D Alignment
 1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
