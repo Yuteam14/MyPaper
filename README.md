@@ -87,6 +87,7 @@
 3. [2025-NeurIPS] SCENEFORGE: Enhancing 3D-text alignment with Structured Scene Compositions [[paper]](https://arxiv.org/pdf/2509.15693) [[code]](https://github.com/mortorit/sceneforge-neurips2025)
 4. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cross-Instance+Gaussian+Splatting+Registration+via+Geometry-Aware+Feature-Guided+Alignment&btnG=) Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment
 5. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PatchAlign3D%3A+Local+Feature+Alignment+for+Dense+3D+Shape+Understanding&btnG=) PatchAlign3D: Local Feature Alignment for Dense 3D Shape Understanding
+6. [[2026-CVPR]](https://arxiv.org/abs/2603.21936) Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment
 
 
 ### Classification&&Test-time Adaptation
