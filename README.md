@@ -71,7 +71,7 @@
 ### 3D Pose Estimation
 1. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Flow6D%3A+Discrete-to-Continuous+Flow+Matching+for+Efficient+and+Accurate+Category-Level+6D+Pose+Estimation&btnG=) AxisPose:Model-FreeMatching-FreeSingle-Shot6DObjectPoseEstimationvia
 AxisGeneration
-2. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=AxisPose%3AModel-FreeMatching-FreeSingle-Shot6DObjectPoseEstimationvia+AxisGeneration&btnG=) Flow6D: Discrete-to-Continuous Flow Matching for Efficient and Accurate Category-Level 6D Pose Estimation
+2. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=AxisPose%3AModel-FreeMatching-FreeSingle-Shot6DObjectPoseEstimationvia+AxisGeneration&btnG=) Axis Pose: Model-Free Matching-Free Single-Shot 6D ObjectPose Estimation via Axis Generation
 3. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=ConceptPose%3A+Training-Free+Zero-Shot+Object+Pose+Estimation+using+Concept+Vectors&btnG=) ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors
 4. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Universal+3D+Shape+Matching+via+Coarse-to-Fine+Language+Guidance&btnG=) Universal 3D Shape Matching via Coarse-to-Fine Language Guidance
 5. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LaS-Comp%3A+Zero-shot+3D+Completion+with+Latent%E2%80%93Spatial+Consistency&btnG=) LaS-Comp: Zero-shot 3D Completion with Latent–Spatial Consistency
