@@ -76,10 +76,11 @@
 5. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=UniCorrn%3A+Unified+Correspondence+Transformer+Across+2D+and+3D&btnG=) UniCorrn: Unified Correspondence Transformer Across 2D and 3D
 6. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=KV-Tracker%3A+Real-Time+Pose+Tracking+with+Transformers&btnG=) KV-Tracker: Real-Time Pose Tracking with Transformers
 7. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=ComPose%3A+A+Unified+Completion-Pose+Framework+for+Robust+Category-Level+Object+Pose+Estimation&btnG=) ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation
-8. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Shape-of-You%3A+FusedGromov-Wasserstein+Optimal+Transport+for+Semantic+Correspondence+in-the-Wild&btnG=) Shape-of-You: FusedGromov-Wasserstein Optimal Transport for Semantic Correspondence in-the-Wild
-9. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=MARCO%3ANavigating+the+Unseen+Space+of+Semantic+Correspondence&btnG=) MARCO:Navigating the Unseen Space of Semantic Correspondence
-10. [[2025-ICCV]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=RegGS%3A+Unposed+Sparse+Views+Gaussian+Splatting+with+3DGS+Registration&btnG=) RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration
-11. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=POPE%3A+6-DoF+Promptable+Pose+Estimation+of+Any+Object%2C+in+Any+Scene%2C+with+One+Reference&btnG=) POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
+8. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&as_ylo=2026&cites=18335226230029760625&scipsc=&q=Cov2Pose%3A+Leveraging+Spatial+Covariance+for+Direct+Manifold-aware+6-DoF+Object+Pose+Estimation&btnG=) Cov2Pose: Leveraging Spatial Covariance for Direct Manifold-aware 6-DoF Object Pose Estimation
+9. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Shape-of-You%3A+FusedGromov-Wasserstein+Optimal+Transport+for+Semantic+Correspondence+in-the-Wild&btnG=) Shape-of-You: FusedGromov-Wasserstein Optimal Transport for Semantic Correspondence in-the-Wild
+10. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=MARCO%3ANavigating+the+Unseen+Space+of+Semantic+Correspondence&btnG=) MARCO:Navigating the Unseen Space of Semantic Correspondence
+11. [[2025-ICCV]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=RegGS%3A+Unposed+Sparse+Views+Gaussian+Splatting+with+3DGS+Registration&btnG=) RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration
+12. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=POPE%3A+6-DoF+Promptable+Pose+Estimation+of+Any+Object%2C+in+Any+Scene%2C+with+One+Reference&btnG=) POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
 
 ### 3D Alignment
 1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
