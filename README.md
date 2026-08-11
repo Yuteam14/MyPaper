@@ -84,6 +84,7 @@ Efficient and Accurate Category-Level 6D Pose Estimation
 12. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=MARCO%3ANavigating+the+Unseen+Space+of+Semantic+Correspondence&btnG=) MARCO:Navigating the Unseen Space of Semantic Correspondence
 13. [[2025-ICCV]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=RegGS%3A+Unposed+Sparse+Views+Gaussian+Splatting+with+3DGS+Registration&btnG=) RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration
 14. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=POPE%3A+6-DoF+Promptable+Pose+Estimation+of+Any+Object%2C+in+Any+Scene%2C+with+One+Reference&btnG=) POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
+15. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=MAPRPose%3A+Mask-Aware+Proposal+and+Amodal+Refinement+for+Multi-Object+6D+Pose+Estimation&btnG=) MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation
 
 ### 3D Alignment
 1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
