@@ -68,7 +68,7 @@
 7. [[2026-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Zoo3D%3A+Zero-Shot+3D+Object+Detection+at+Scene+Level&btnG=) CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection
 8. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&cites=14149119459510904184&scipsc=&q=Group3D%3A+MLLM-Driven+Semantic+Grouping+for+Open-Vocabulary+3D+Object+Detection&btnG=) Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection
 
-### 3D Pose Estimation
+### 3D Pose Estimation && Semantic Correspondence
 1. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Flow6D%3A+Discrete-to-Continuous+Flow+Matching+for+Efficient+and+Accurate+Category-Level+6D+Pose+Estimation&btnG=) Flow6D: Discrete-to-Continuous Flow Matching for
 Efficient and Accurate Category-Level 6D Pose Estimation
 2. [[2025-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=AxisPose%3AModel-FreeMatching-FreeSingle-Shot6DObjectPoseEstimationvia+AxisGeneration&btnG=) Axis Pose: Model-Free Matching-Free Single-Shot 6D Object Pose Estimation via Axis Generation
