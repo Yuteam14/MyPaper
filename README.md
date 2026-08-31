@@ -88,6 +88,7 @@ Efficient and Accurate Category-Level 6D Pose Estimation
 16. [[2024-CVPR]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=POPE%3A+6-DoF+Promptable+Pose+Estimation+of+Any+Object%2C+in+Any+Scene%2C+with+One+Reference&btnG=) POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
 17. [[2023-NeurIPS]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+A+tale+of+two+features%3A+Stable+diffusion+complements+DINO+for+zero-shot+semantic+correspondence.+&btnG=) A tale of two features: Stable diffusion complements dino for zero-shot semantic correspondence
 18. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=MAPRPose%3A+Mask-Aware+Proposal+and+Amodal+Refinement+for+Multi-Object+6D+Pose+Estimation&btnG=) MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation
+19. [[2026-arXiv]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2026&q=Rectified+point+flow%3A+Generic+point+cloud+pose+estimation&btnG=) Rectified Point Flow: Generic Point Cloud Pose Estimation
 
 ### 3D Alignment
 1. [2025-arXiv] Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces [[paper]](https://arxiv.org/pdf/2503.05283)  
